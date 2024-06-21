@@ -18,11 +18,6 @@ times = np.arange(500)/50
 xticks = [i * 0.2 for i in range(51)]
 
 
-def clear_images():
-    for file in os.listdir('static'):
-        if '.png' in file:
-            os.remove(f'static/{file}') 
-
 def gen_im(name):
     raw_im = np.load(f'static/{name}.npy')
     fig, ax = plt.subplots(12, 1, figsize=(30, 30))
@@ -40,9 +35,6 @@ def gen_im(name):
 @app.route('/')
 @app.route('/<int:index>')
 def home(index=0):
-    #clear images
-    clear_images()
-
     # Set index
     if index >= len(data):
         index = 0  # Restart from the first image if out of bounds
