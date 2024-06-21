@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EKG Viewer</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            align-items: center;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .navigation {
+            display: flex;
+            flex-direction: column;
+            margin-right: 20px;
+        }
+        .navigation a {
+            text-decoration: none;
+            margin-bottom: 10px;
+        }
+        .navigation button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .navigation button:hover {
+            background-color: #0056b3;
+        }
+        .container img {
+            margin-right: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .button-container button {
+            padding: 15px 30px;
+            font-size: 18px;
+            margin-bottom: 20px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .button-container button:hover {
+            background-color: #218838;
+        }
+        .description {
+            margin-top: 20px;
+            display: none;
+            text-align: center;
+            font-size: 18px;
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="navigation">
+            <a href="{{ url_for('home', index=next_index) }}"><button>Next</button></a>
+            <a href="{{ url_for('home', index=previous_index) }}"><button>Previous</button></a>
+        </div>
+        <img src="{{ url_for('static', filename=image_path) }}" alt="EKG Image" width="1000">
+        <div class="button-container">
+            <button onclick="revealDescription()">Answer</button>
+            <p id="description" class="description">{{ description }}</p>
+        </div>
+    </div>
+    
+    <script>
+        function revealDescription() {
+            document.getElementById('description').style.display = 'block';
+        }
+    </script>
+</body>
+</html>

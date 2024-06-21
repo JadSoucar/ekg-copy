@@ -1,0 +1,3972 @@
+,name,Dx
+0,E00001,sinus rhythm
+1,E00002,sinus rhythm
+2,E00003,sinus rhythm
+10,E00011,sinus tachycardia
+18,E00019,prolonged qt interval
+19,E00020,t wave inversion
+20,E00021,sinus rhythm
+21,E00022,left ventricular hypertrophy
+22,E00023,left ventricular hypertrophy
+25,E00026,sinus bradycardia
+34,E00035,nonspecific st t abnormality
+36,E00037,sinus rhythm
+38,E00039,sinus rhythm
+40,E00041,sinus tachycardia
+41,E00042,left ventricular hypertrophy
+42,E00043,left ventricular hypertrophy
+45,E00046,sinus rhythm
+48,E00049,sinus rhythm
+49,E00050,left axis deviation
+60,E00061,sinus bradycardia
+61,E00062,sinus rhythm
+69,E00070,sinus tachycardia
+74,E00075,prolonged qt interval
+77,E00078,t wave abnormal
+79,E00080,sinus tachycardia
+84,E00085,t wave abnormal
+85,E00086,left axis deviation
+88,E00089,left bundle branch block
+93,E00094,left ventricular hypertrophy
+94,E00095,right bundle branch block
+97,E00098,sinus bradycardia
+102,E00103,prolonged qt interval
+109,E00110,sinus tachycardia
+111,E00112,t wave abnormal
+117,E00118,sinus rhythm
+119,E00120,sinus bradycardia
+122,E00123,low qrs voltages
+124,E00125,sinus rhythm
+128,E00129,t wave abnormal
+130,E00131,t wave abnormal
+134,E00135,sinus tachycardia
+135,E00136,sinus rhythm
+138,E00139,sinus bradycardia
+140,E00141,right bundle branch block
+153,E00154,nonspecific st t abnormality
+154,E00155,t wave abnormal
+155,E00156,sinus arrhythmia
+156,E00157,nonspecific st t abnormality
+157,E00158,sinus rhythm
+158,E00159,sinus rhythm
+164,E00165,left ventricular hypertrophy
+165,E00166,sinus rhythm
+168,E00169,sinus rhythm
+173,E00174,t wave abnormal
+182,E00183,low qrs voltages
+184,E00185,left ventricular hypertrophy
+189,E00190,low qrs voltages
+195,E00196,sinus bradycardia
+197,E00198,sinus rhythm
+199,E00200,sinus tachycardia
+208,E00209,sinus tachycardia
+209,E00210,1st degree av block
+220,E00221,sinus bradycardia
+221,E00222,sinus rhythm
+222,E00223,ventricular premature beats
+225,E00226,prolonged qt interval
+226,E00227,sinus rhythm
+227,E00228,sinus tachycardia
+230,E00231,sinus tachycardia
+231,E00232,nonspecific intraventricular conduction disorder
+232,E00233,sinus rhythm
+234,E00235,sinus rhythm
+235,E00236,left axis deviation
+236,E00237,sinus rhythm
+239,E00240,sinus rhythm
+240,E00241,left atrial abnormality
+242,E00243,sinus bradycardia
+243,E00244,sinus rhythm
+244,E00245,nonspecific st t abnormality
+248,E00249,sinus rhythm
+249,E00250,left ventricular hypertrophy
+252,E00253,sinus rhythm
+253,E00254,sinus rhythm
+256,E00257,sinus rhythm
+257,E00258,sinus rhythm
+260,E00261,sinus rhythm
+261,E00262,sinus rhythm
+263,E00264,nonspecific st t abnormality
+268,E00269,sinus arrhythmia
+270,E00271,right bundle branch block
+272,E00273,sinus rhythm
+273,E00274,sinus rhythm
+276,E00277,low qrs voltages
+277,E00278,sinus rhythm
+278,E00279,sinus tachycardia
+279,E00280,sinus rhythm
+282,E00283,sinus rhythm
+283,E00284,incomplete right bundle branch block
+285,E00286,sinus rhythm
+286,E00287,left ventricular hypertrophy
+287,E00288,lateral ischaemia
+288,E00289,sinus bradycardia
+289,E00290,sinus rhythm
+290,E00291,left bundle branch block
+291,E00292,sinus rhythm
+292,E00293,sinus rhythm
+293,E00294,sinus rhythm
+297,E00298,left atrial enlargement
+303,E00304,sinus rhythm
+307,E00308,sinus rhythm
+309,E00310,sinus rhythm
+310,E00311,sinus bradycardia
+312,E00313,sinus rhythm
+313,E00314,sinus rhythm
+314,E00315,sinus arrhythmia
+315,E00316,sinus rhythm
+317,E00318,sinus rhythm
+318,E00319,nonspecific st t abnormality
+319,E00320,sinus rhythm
+322,E00323,sinus rhythm
+327,E00328,sinus bradycardia
+328,E00329,sinus rhythm
+330,E00331,sinus rhythm
+332,E00333,sinus tachycardia
+334,E00335,sinus rhythm
+336,E00337,sinus rhythm
+337,E00338,sinus rhythm
+338,E00339,left anterior fascicular block
+339,E00340,sinus rhythm
+340,E00341,sinus rhythm
+342,E00343,sinus rhythm
+344,E00345,sinus rhythm
+346,E00347,nonspecific st t abnormality
+350,E00351,sinus rhythm
+351,E00352,sinus bradycardia
+352,E00353,sinus rhythm
+354,E00355,right bundle branch block
+356,E00357,sinus arrhythmia
+358,E00359,sinus rhythm
+359,E00360,sinus tachycardia
+362,E00363,nonspecific st t abnormality
+364,E00365,sinus rhythm
+368,E00369,sinus rhythm
+369,E00370,left bundle branch block
+371,E00372,sinus bradycardia
+372,E00373,nonspecific st t abnormality
+376,E00377,sinus rhythm
+377,E00378,sinus arrhythmia
+380,E00381,atrial fibrillation
+381,E00382,left ventricular hypertrophy
+384,E00385,left atrial abnormality
+385,E00386,sinus rhythm
+386,E00387,sinus rhythm
+387,E00388,sinus rhythm
+388,E00389,nonspecific st t abnormality
+392,E00393,sinus rhythm
+394,E00395,prolonged qt interval
+395,E00396,sinus rhythm
+397,E00398,atrial fibrillation
+400,E00401,sinus rhythm
+401,E00402,sinus rhythm
+402,E00403,left ventricular hypertrophy
+406,E00407,t wave abnormal
+409,E00410,left bundle branch block
+414,E00415,left anterior fascicular block
+415,E00416,sinus rhythm
+417,E00418,sinus rhythm
+418,E00419,prolonged qt interval
+420,E00421,sinus rhythm
+422,E00423,sinus rhythm
+423,E00424,sinus rhythm
+425,E00426,atrial fibrillation
+427,E00428,sinus bradycardia
+429,E00430,sinus rhythm
+432,E00433,t wave abnormal
+438,E00439,incomplete right bundle branch block
+439,E00440,sinus rhythm
+440,E00441,sinus rhythm
+441,E00442,ventricular premature beats
+444,E00445,sinus rhythm
+445,E00446,sinus tachycardia
+447,E00448,sinus rhythm
+448,E00449,right axis deviation
+449,E00450,sinus rhythm
+454,E00455,nonspecific intraventricular conduction disorder
+455,E00456,right bundle branch block
+456,E00457,nonspecific st t abnormality
+457,E00458,left axis deviation
+458,E00459,sinus rhythm
+461,E00462,atrial fibrillation
+462,E00463,sinus rhythm
+463,E00464,sinus rhythm
+464,E00465,nonspecific st t abnormality
+465,E00466,sinus rhythm
+468,E00469,sinus arrhythmia
+469,E00470,sinus rhythm
+470,E00471,sinus rhythm
+473,E00474,right bundle branch block
+474,E00475,sinus rhythm
+480,E00481,nonspecific st t abnormality
+482,E00483,sinus rhythm
+483,E00484,t wave abnormal
+484,E00485,prolonged qt interval
+487,E00488,low qrs voltages
+490,E00491,sinus rhythm
+500,E00501,sinus rhythm
+504,E00505,right bundle branch block
+513,E00514,left atrial enlargement
+527,E00528,sinus arrhythmia
+528,E00529,left axis deviation
+529,E00530,low qrs voltages
+530,E00531,sinus arrhythmia
+532,E00533,sinus rhythm
+533,E00534,sinus arrhythmia
+541,E00542,sinus rhythm
+542,E00543,sinus rhythm
+544,E00545,sinus rhythm
+549,E00550,sinus rhythm
+557,E00558,sinus rhythm
+558,E00559,atrial fibrillation
+560,E00561,1st degree av block
+562,E00563,sinus bradycardia
+564,E00565,early repolarization
+566,E00567,sinus rhythm
+568,E00569,early repolarization
+569,E00570,sinus rhythm
+574,E00575,sinus rhythm
+583,E00584,nonspecific st t abnormality
+586,E00587,left ventricular hypertrophy
+588,E00589,t wave abnormal
+589,E00590,atrial fibrillation
+591,E00592,sinus rhythm
+594,E00595,sinus rhythm
+606,E00607,left axis deviation
+621,E00622,sinus tachycardia
+623,E00624,1st degree av block
+624,E00625,sinus bradycardia
+628,E00629,left atrial enlargement
+633,E00634,t wave abnormal
+645,E00646,sinus bradycardia
+646,E00647,sinus bradycardia
+647,E00648,nonspecific st t abnormality
+664,E00665,sinus arrhythmia
+668,E00669,nonspecific st t abnormality
+671,E00672,nonspecific st t abnormality
+672,E00673,sinus rhythm
+673,E00674,sinus rhythm
+675,E00676,left atrial enlargement
+676,E00677,t wave abnormal
+677,E00678,left ventricular hypertrophy
+678,E00679,sinus rhythm
+679,E00680,sinus bradycardia
+697,E00698,sinus rhythm
+698,E00699,sinus rhythm
+700,E00701,sinus rhythm
+702,E00703,sinus tachycardia
+704,E00705,sinus tachycardia
+707,E00708,right bundle branch block
+712,E00713,sinus tachycardia
+714,E00715,sinus tachycardia
+715,E00716,sinus tachycardia
+716,E00717,sinus tachycardia
+717,E00718,low qrs voltages
+729,E00730,sinus bradycardia
+735,E00736,sinus rhythm
+736,E00737,sinus rhythm
+739,E00740,t wave inversion
+741,E00742,1st degree av block
+746,E00747,sinus rhythm
+747,E00748,sinus tachycardia
+748,E00749,low qrs voltages
+749,E00750,sinus rhythm
+750,E00751,sinus rhythm
+752,E00753,right bundle branch block
+753,E00754,sinus rhythm
+754,E00755,sinus rhythm
+760,E00761,low qrs voltages
+763,E00764,sinus rhythm
+764,E00765,sinus rhythm
+765,E00766,sinus bradycardia
+767,E00768,sinus bradycardia
+768,E00769,sinus rhythm
+769,E00770,sinus rhythm
+770,E00771,sinus rhythm
+771,E00772,left ventricular hypertrophy
+772,E00773,sinus rhythm
+774,E00775,sinus rhythm
+776,E00777,sinus bradycardia
+778,E00779,sinus rhythm
+779,E00780,sinus rhythm
+780,E00781,sinus rhythm
+782,E00783,left atrial enlargement
+783,E00784,sinus tachycardia
+787,E00788,sinus rhythm
+790,E00791,sinus tachycardia
+791,E00792,sinus tachycardia
+793,E00794,left atrial enlargement
+794,E00795,sinus rhythm
+795,E00796,left atrial enlargement
+797,E00798,sinus rhythm
+800,E00801,sinus bradycardia
+801,E00802,sinus rhythm
+804,E00805,sinus rhythm
+805,E00806,sinus bradycardia
+806,E00807,sinus rhythm
+808,E00809,sinus tachycardia
+812,E00813,sinus bradycardia
+818,E00819,low qrs voltages
+819,E00820,sinus rhythm
+821,E00822,ventricular premature beats
+822,E00823,sinus rhythm
+824,E00825,sinus rhythm
+826,E00827,sinus rhythm
+827,E00828,sinus bradycardia
+830,E00831,ventricular pacing pattern
+832,E00833,sinus rhythm
+833,E00834,sinus rhythm
+834,E00835,sinus rhythm
+837,E00838,sinus rhythm
+840,E00841,sinus rhythm
+841,E00842,sinus bradycardia
+844,E00845,sinus rhythm
+846,E00847,sinus bradycardia
+847,E00848,sinus bradycardia
+850,E00851,sinus rhythm
+851,E00852,atrial pacing pattern
+853,E00854,t wave abnormal
+855,E00856,sinus rhythm
+857,E00858,sinus bradycardia
+858,E00859,sinus bradycardia
+859,E00860,sinus rhythm
+860,E00861,sinus rhythm
+861,E00862,sinus rhythm
+862,E00863,early repolarization
+864,E00865,left bundle branch block
+866,E00867,sinus rhythm
+868,E00869,sinus rhythm
+869,E00870,sinus rhythm
+871,E00872,sinus rhythm
+872,E00873,atrial fibrillation
+873,E00874,sinus rhythm
+877,E00878,sinus arrhythmia
+878,E00879,sinus rhythm
+879,E00880,sinus rhythm
+880,E00881,early repolarization
+882,E00883,sinus rhythm
+883,E00884,t wave abnormal
+886,E00887,sinus rhythm
+888,E00889,sinus rhythm
+889,E00890,sinus rhythm
+892,E00893,sinus rhythm
+894,E00895,sinus rhythm
+898,E00899,sinus bradycardia
+900,E00901,left axis deviation
+902,E00903,atrial fibrillation
+904,E00905,sinus rhythm
+905,E00906,sinus rhythm
+906,E00907,sinus bradycardia
+909,E00910,sinus bradycardia
+910,E00911,t wave abnormal
+911,E00912,sinus rhythm
+912,E00913,sinus rhythm
+913,E00914,sinus rhythm
+914,E00915,sinus bradycardia
+915,E00916,left atrial enlargement
+916,E00917,sinus rhythm
+917,E00918,sinus rhythm
+920,E00921,sinus rhythm
+925,E00926,sinus bradycardia
+926,E00927,sinus rhythm
+927,E00928,early repolarization
+929,E00930,sinus rhythm
+930,E00931,sinus arrhythmia
+932,E00933,sinus rhythm
+933,E00934,nonspecific st t abnormality
+934,E00935,sinus bradycardia
+936,E00937,left atrial enlargement
+937,E00938,sinus bradycardia
+944,E00945,sinus bradycardia
+946,E00947,sinus rhythm
+947,E00948,sinus rhythm
+952,E00953,sinus rhythm
+954,E00955,sinus rhythm
+957,E00958,sinus rhythm
+958,E00959,sinus tachycardia
+960,E00961,sinus rhythm
+961,E00962,sinus rhythm
+962,E00963,sinus bradycardia
+963,E00964,sinus bradycardia
+966,E00967,sinus rhythm
+967,E00968,left atrial enlargement
+968,E00969,sinus rhythm
+970,E00971,sinus bradycardia
+972,E00973,nonspecific st t abnormality
+976,E00977,sinus rhythm
+977,E00978,sinus bradycardia
+978,E00979,sinus rhythm
+979,E00980,t wave inversion
+980,E00981,sinus rhythm
+981,E00982,t wave abnormal
+982,E00983,sinus bradycardia
+983,E00984,sinus rhythm
+984,E00985,left ventricular hypertrophy
+985,E00986,sinus rhythm
+987,E00988,1st degree av block
+988,E00989,sinus rhythm
+989,E00990,low qrs voltages
+990,E00991,sinus rhythm
+991,E00992,t wave abnormal
+992,E00993,sinus bradycardia
+995,E00996,left atrial enlargement
+996,E00997,sinus rhythm
+997,E00998,sinus rhythm
+998,E00999,sinus rhythm
+999,E01000,sinus rhythm
+1000,E01001,sinus rhythm
+1002,E01003,sinus rhythm
+1008,E01009,sinus rhythm
+1009,E01010,sinus rhythm
+1012,E01013,sinus tachycardia
+1015,E01016,left ventricular hypertrophy
+1017,E01018,sinus rhythm
+1018,E01019,incomplete right bundle branch block
+1021,E01022,sinus rhythm
+1022,E01023,sinus rhythm
+1024,E01025,sinus rhythm
+1028,E01029,sinus rhythm
+1029,E01030,sinus bradycardia
+1032,E01033,sinus rhythm
+1034,E01035,left atrial enlargement
+1036,E01037,sinus rhythm
+1037,E01038,sinus bradycardia
+1038,E01039,sinus rhythm
+1039,E01040,sinus bradycardia
+1040,E01041,sinus bradycardia
+1041,E01042,sinus rhythm
+1044,E01045,sinus rhythm
+1046,E01047,right bundle branch block
+1048,E01049,t wave abnormal
+1049,E01050,t wave abnormal
+1051,E01052,early repolarization
+1052,E01053,sinus rhythm
+1054,E01055,sinus rhythm
+1057,E01058,nonspecific st t abnormality
+1058,E01059,sinus bradycardia
+1059,E01060,sinus rhythm
+1061,E01062,sinus rhythm
+1062,E01063,left axis deviation
+1063,E01064,sinus rhythm
+1064,E01065,sinus rhythm
+1065,E01066,sinus bradycardia
+1066,E01067,left atrial enlargement
+1067,E01068,sinus rhythm
+1068,E01069,sinus bradycardia
+1069,E01070,sinus rhythm
+1070,E01071,sinus rhythm
+1071,E01072,sinus rhythm
+1072,E01073,sinus rhythm
+1076,E01077,incomplete right bundle branch block
+1079,E01080,sinus rhythm
+1080,E01081,sinus rhythm
+1081,E01082,sinus rhythm
+1084,E01085,left axis deviation
+1086,E01087,nonspecific st t abnormality
+1087,E01088,low qrs voltages
+1088,E01089,low qrs voltages
+1089,E01090,nonspecific st t abnormality
+1090,E01091,sinus rhythm
+1094,E01095,nonspecific st t abnormality
+1095,E01096,nonspecific st t abnormality
+1099,E01100,t wave abnormal
+1100,E01101,sinus rhythm
+1102,E01103,sinus rhythm
+1103,E01104,sinus tachycardia
+1105,E01106,1st degree av block
+1111,E01112,sinus rhythm
+1116,E01117,sinus arrhythmia
+1118,E01119,sinus arrhythmia
+1122,E01123,st elevation
+1124,E01125,sinus rhythm
+1125,E01126,sinus rhythm
+1126,E01127,left atrial enlargement
+1127,E01128,sinus bradycardia
+1129,E01130,sinus tachycardia
+1131,E01132,sinus tachycardia
+1132,E01133,sinus tachycardia
+1134,E01135,left anterior fascicular block
+1136,E01137,sinus bradycardia
+1139,E01140,atrial fibrillation
+1140,E01141,sinus rhythm
+1141,E01142,sinus rhythm
+1145,E01146,prolonged qt interval
+1147,E01148,nonspecific st t abnormality
+1148,E01149,left atrial enlargement
+1149,E01150,sinus rhythm
+1150,E01151,sinus rhythm
+1153,E01154,sinus rhythm
+1155,E01156,sinus rhythm
+1156,E01157,sinus rhythm
+1160,E01161,sinus rhythm
+1167,E01168,sinus rhythm
+1168,E01169,t wave abnormal
+1173,E01174,t wave inversion
+1174,E01175,sinus rhythm
+1189,E01190,sinus rhythm
+1190,E01191,sinus rhythm
+1195,E01196,sinus rhythm
+1198,E01199,sinus rhythm
+1199,E01200,incomplete left bundle branch block
+1200,E01201,left atrial enlargement
+1202,E01203,t wave abnormal
+1203,E01204,sinus tachycardia
+1206,E01207,incomplete right bundle branch block
+1208,E01209,nonspecific st t abnormality
+1209,E01210,sinus arrhythmia
+1215,E01216,atrial fibrillation
+1216,E01217,low qrs voltages
+1221,E01222,sinus rhythm
+1222,E01223,sinus tachycardia
+1225,E01226,sinus rhythm
+1226,E01227,sinus rhythm
+1227,E01228,left atrial enlargement
+1229,E01230,sinus rhythm
+1230,E01231,nonspecific st t abnormality
+1231,E01232,sinus rhythm
+1232,E01233,sinus bradycardia
+1234,E01235,sinus rhythm
+1236,E01237,nonspecific st t abnormality
+1239,E01240,sinus rhythm
+1240,E01241,left atrial enlargement
+1246,E01247,nonspecific st t abnormality
+1253,E01254,left ventricular hypertrophy
+1257,E01258,sinus rhythm
+1259,E01260,nonspecific st t abnormality
+1262,E01263,sinus rhythm
+1266,E01267,left ventricular hypertrophy
+1267,E01268,sinus tachycardia
+1270,E01271,low qrs voltages
+1277,E01278,left atrial enlargement
+1278,E01279,nonspecific st t abnormality
+1280,E01281,sinus rhythm
+1282,E01283,sinus bradycardia
+1283,E01284,sinus rhythm
+1288,E01289,sinus tachycardia
+1294,E01295,nonspecific intraventricular conduction disorder
+1295,E01296,sinus rhythm
+1298,E01299,nonspecific st t abnormality
+1300,E01301,right bundle branch block
+1303,E01304,sinus arrhythmia
+1304,E01305,low qrs voltages
+1306,E01307,nonspecific st t abnormality
+1308,E01309,nonspecific st t abnormality
+1313,E01314,sinus rhythm
+1320,E01321,nonspecific st t abnormality
+1321,E01322,nonspecific st t abnormality
+1326,E01327,atrial fibrillation
+1327,E01328,nonspecific st t abnormality
+1338,E01339,early repolarization
+1342,E01343,sinus rhythm
+1347,E01348,sinus rhythm
+1350,E01351,nonspecific st t abnormality
+1352,E01353,sinus tachycardia
+1354,E01355,sinus rhythm
+1355,E01356,1st degree av block
+1359,E01360,atrial pacing pattern
+1360,E01361,sinus tachycardia
+1363,E01364,incomplete right bundle branch block
+1371,E01372,sinus rhythm
+1372,E01373,sinus rhythm
+1373,E01374,sinus tachycardia
+1374,E01375,sinus arrhythmia
+1375,E01376,sinus rhythm
+1381,E01382,left anterior fascicular block
+1383,E01384,sinus tachycardia
+1387,E01388,atrial fibrillation
+1390,E01391,sinus rhythm
+1391,E01392,sinus arrhythmia
+1400,E01401,sinus tachycardia
+1402,E01403,left axis deviation
+1406,E01407,sinus rhythm
+1409,E01410,sinus rhythm
+1410,E01411,left ventricular hypertrophy
+1411,E01412,sinus rhythm
+1412,E01413,sinus rhythm
+1421,E01422,sinus rhythm
+1422,E01423,sinus tachycardia
+1423,E01424,sinus tachycardia
+1424,E01425,left atrial enlargement
+1427,E01428,sinus bradycardia
+1428,E01429,sinus rhythm
+1433,E01434,prolonged qt interval
+1434,E01435,nonspecific st t abnormality
+1438,E01439,sinus rhythm
+1439,E01440,sinus rhythm
+1445,E01446,left ventricular hypertrophy
+1447,E01448,left axis deviation
+1448,E01449,sinus rhythm
+1454,E01455,nonspecific st t abnormality
+1455,E01456,sinus rhythm
+1457,E01458,sinus rhythm
+1459,E01460,sinus rhythm
+1460,E01461,sinus rhythm
+1461,E01462,sinus tachycardia
+1462,E01463,t wave abnormal
+1465,E01466,left atrial enlargement
+1467,E01468,sinus rhythm
+1468,E01469,sinus rhythm
+1469,E01470,atrial pacing pattern
+1470,E01471,sinus rhythm
+1473,E01474,sinus rhythm
+1478,E01479,sinus rhythm
+1482,E01483,sinus rhythm
+1483,E01484,sinus rhythm
+1484,E01485,sinus rhythm
+1486,E01487,left ventricular hypertrophy
+1491,E01492,t wave inversion
+1492,E01493,sinus tachycardia
+1493,E01494,sinus tachycardia
+1494,E01495,low qrs voltages
+1505,E01506,sinus rhythm
+1507,E01508,sinus tachycardia
+1509,E01510,sinus tachycardia
+1511,E01512,low qrs voltages
+1517,E01518,sinus rhythm
+1520,E01521,incomplete right bundle branch block
+1521,E01522,sinus tachycardia
+1522,E01523,sinus rhythm
+1523,E01524,sinus arrhythmia
+1525,E01526,sinus tachycardia
+1526,E01527,sinus rhythm
+1527,E01528,left ventricular hypertrophy
+1528,E01529,t wave abnormal
+1530,E01531,sinus rhythm
+1531,E01532,nonspecific st t abnormality
+1533,E01534,sinus tachycardia
+1537,E01538,left atrial enlargement
+1540,E01541,t wave abnormal
+1542,E01543,sinus tachycardia
+1553,E01554,left anterior fascicular block
+1554,E01555,sinus tachycardia
+1555,E01556,t wave abnormal
+1560,E01561,sinus rhythm
+1561,E01562,sinus rhythm
+1562,E01563,sinus rhythm
+1563,E01564,sinus tachycardia
+1564,E01565,sinus rhythm
+1566,E01567,sinus rhythm
+1573,E01574,sinus rhythm
+1575,E01576,complete right bundle branch block
+1578,E01579,atrial fibrillation
+1582,E01583,t wave abnormal
+1591,E01592,sinus rhythm
+1594,E01595,nonspecific st t abnormality
+1595,E01596,left bundle branch block
+1597,E01598,nonspecific st t abnormality
+1598,E01599,t wave abnormal
+1599,E01600,t wave abnormal
+1601,E01602,sinus rhythm
+1606,E01607,sinus bradycardia
+1609,E01610,sinus rhythm
+1614,E01615,nonspecific intraventricular conduction disorder
+1616,E01617,sinus rhythm
+1620,E01621,sinus tachycardia
+1626,E01627,sinus rhythm
+1627,E01628,sinus tachycardia
+1629,E01630,low qrs voltages
+1631,E01632,left ventricular hypertrophy
+1632,E01633,ventricular premature beats
+1634,E01635,ventricular pacing pattern
+1635,E01636,incomplete right bundle branch block
+1636,E01637,sinus rhythm
+1640,E01641,sinus rhythm
+1641,E01642,sinus rhythm
+1645,E01646,nonspecific st t abnormality
+1650,E01651,nonspecific st t abnormality
+1651,E01652,ventricular pacing pattern
+1654,E01655,left axis deviation
+1655,E01656,sinus rhythm
+1657,E01658,sinus rhythm
+1659,E01660,sinus rhythm
+1663,E01664,sinus rhythm
+1669,E01670,nonspecific st t abnormality
+1670,E01671,early repolarization
+1671,E01672,sinus rhythm
+1674,E01675,sinus rhythm
+1676,E01677,sinus rhythm
+1686,E01687,sinus rhythm
+1687,E01688,nonspecific st t abnormality
+1691,E01692,nonspecific st t abnormality
+1694,E01695,sinus tachycardia
+1695,E01696,sinus rhythm
+1707,E01708,right bundle branch block
+1710,E01711,sinus rhythm
+1722,E01723,sinus rhythm
+1723,E01724,left ventricular hypertrophy
+1724,E01725,nonspecific st t abnormality
+1725,E01726,right bundle branch block
+1729,E01730,sinus rhythm
+1730,E01731,sinus tachycardia
+1731,E01732,sinus tachycardia
+1732,E01733,sinus tachycardia
+1736,E01737,sinus arrhythmia
+1739,E01740,sinus tachycardia
+1743,E01744,sinus rhythm
+1744,E01745,nonspecific st t abnormality
+1745,E01746,left atrial enlargement
+1746,E01747,nonspecific st t abnormality
+1747,E01748,sinus rhythm
+1748,E01749,sinus rhythm
+1749,E01750,low qrs voltages
+1750,E01751,sinus rhythm
+1753,E01754,left ventricular hypertrophy
+1755,E01756,low qrs voltages
+1762,E01763,sinus rhythm
+1763,E01764,ventricular premature beats
+1765,E01766,sinus rhythm
+1769,E01770,right bundle branch block
+1772,E01773,sinus arrhythmia
+1773,E01774,sinus bradycardia
+1774,E01775,nonspecific st t abnormality
+1776,E01777,sinus rhythm
+1781,E01782,ventricular premature beats
+1785,E01786,nonspecific intraventricular conduction disorder
+1786,E01787,right bundle branch block
+1789,E01790,sinus tachycardia
+1790,E01791,sinus tachycardia
+1791,E01792,sinus rhythm
+1792,E01793,incomplete right bundle branch block
+1793,E01794,sinus tachycardia
+1797,E01798,sinus tachycardia
+1798,E01799,sinus rhythm
+1801,E01802,sinus rhythm
+1803,E01804,left axis deviation
+1823,E01824,left ventricular hypertrophy
+1825,E01826,left ventricular hypertrophy
+1827,E01828,sinus tachycardia
+1828,E01829,sinus rhythm
+1829,E01830,sinus rhythm
+1832,E01833,1st degree av block
+1835,E01836,left ventricular hypertrophy
+1836,E01837,nonspecific st t abnormality
+1837,E01838,nonspecific st t abnormality
+1838,E01839,sinus rhythm
+1841,E01842,sinus rhythm
+1845,E01846,sinus rhythm
+1846,E01847,sinus rhythm
+1847,E01848,nonspecific st t abnormality
+1850,E01851,sinus rhythm
+1851,E01852,ventricular premature beats
+1852,E01853,right bundle branch block
+1858,E01859,left atrial enlargement
+1859,E01860,left ventricular hypertrophy
+1864,E01865,left ventricular hypertrophy
+1872,E01873,sinus arrhythmia
+1873,E01874,sinus tachycardia
+1880,E01881,sinus bradycardia
+1882,E01883,sinus rhythm
+1883,E01884,sinus rhythm
+1887,E01888,sinus rhythm
+1889,E01890,sinus rhythm
+1890,E01891,atrial fibrillation
+1891,E01892,sinus arrhythmia
+1892,E01893,sinus rhythm
+1899,E01900,sinus bradycardia
+1902,E01903,sinus rhythm
+1904,E01905,early repolarization
+1906,E01907,early repolarization
+1907,E01908,atrial fibrillation
+1908,E01909,left ventricular hypertrophy
+1910,E01911,atrial pacing pattern
+1916,E01917,sinus rhythm
+1918,E01919,sinus bradycardia
+1919,E01920,sinus rhythm
+1921,E01922,sinus bradycardia
+1923,E01924,t wave abnormal
+1925,E01926,sinus rhythm
+1926,E01927,sinus bradycardia
+1930,E01931,low qrs voltages
+1931,E01932,t wave inversion
+1932,E01933,sinus rhythm
+1934,E01935,sinus rhythm
+1935,E01936,sinus rhythm
+1936,E01937,sinus rhythm
+1937,E01938,nonspecific st t abnormality
+1941,E01942,low qrs voltages
+1942,E01943,sinus arrhythmia
+1944,E01945,sinus arrhythmia
+1945,E01946,sinus rhythm
+1946,E01947,sinus rhythm
+1950,E01951,sinus rhythm
+1957,E01958,nonspecific st t abnormality
+1963,E01964,sinus bradycardia
+1965,E01966,left ventricular hypertrophy
+1968,E01969,left axis deviation
+1970,E01971,right bundle branch block
+1974,E01975,sinus tachycardia
+1981,E01982,right bundle branch block
+1982,E01983,sinus rhythm
+1985,E01986,low qrs voltages
+1987,E01988,sinus bradycardia
+1990,E01991,sinus rhythm
+1996,E01997,sinus tachycardia
+1998,E01999,sinus rhythm
+2000,E02001,sinus bradycardia
+2004,E02005,left anterior fascicular block
+2005,E02006,t wave inversion
+2008,E02009,right bundle branch block
+2012,E02013,sinus rhythm
+2013,E02014,1st degree av block
+2014,E02015,sinus rhythm
+2016,E02017,sinus rhythm
+2019,E02020,atrial fibrillation
+2025,E02026,left ventricular hypertrophy
+2026,E02027,sinus bradycardia
+2029,E02030,low qrs voltages
+2034,E02035,sinus rhythm
+2037,E02038,sinus arrhythmia
+2041,E02042,sinus rhythm
+2048,E02049,sinus rhythm
+2050,E02051,sinus rhythm
+2054,E02055,sinus rhythm
+2055,E02056,t wave abnormal
+2057,E02058,left ventricular hypertrophy
+2059,E02060,nonspecific st t abnormality
+2061,E02062,t wave abnormal
+2068,E02069,sinus arrhythmia
+2069,E02070,sinus rhythm
+2070,E02071,low qrs voltages
+2071,E02072,nonspecific st t abnormality
+2072,E02073,nonspecific st t abnormality
+2077,E02078,t wave abnormal
+2078,E02079,nonspecific st t abnormality
+2082,E02083,sinus tachycardia
+2086,E02087,sinus rhythm
+2087,E02088,sinus rhythm
+2089,E02090,sinus tachycardia
+2090,E02091,sinus tachycardia
+2091,E02092,sinus rhythm
+2097,E02098,sinus rhythm
+2098,E02099,sinus rhythm
+2099,E02100,sinus bradycardia
+2100,E02101,sinus tachycardia
+2101,E02102,sinus rhythm
+2108,E02109,sinus bradycardia
+2109,E02110,sinus rhythm
+2112,E02113,sinus rhythm
+2118,E02119,t wave abnormal
+2126,E02127,sinus rhythm
+2127,E02128,sinus tachycardia
+2128,E02129,left ventricular hypertrophy
+2129,E02130,sinus rhythm
+2131,E02132,left ventricular hypertrophy
+2136,E02137,nonspecific st t abnormality
+2137,E02138,prolonged qt interval
+2138,E02139,right bundle branch block
+2139,E02140,low qrs voltages
+2140,E02141,sinus rhythm
+2141,E02142,nonspecific st t abnormality
+2143,E02144,sinus tachycardia
+2144,E02145,left axis deviation
+2150,E02151,sinus rhythm
+2151,E02152,sinus bradycardia
+2153,E02154,sinus arrhythmia
+2154,E02155,sinus rhythm
+2155,E02156,left atrial enlargement
+2156,E02157,sinus arrhythmia
+2157,E02158,sinus rhythm
+2158,E02159,sinus rhythm
+2160,E02161,sinus tachycardia
+2161,E02162,sinus tachycardia
+2162,E02163,left ventricular hypertrophy
+2163,E02164,sinus bradycardia
+2170,E02171,low qrs voltages
+2172,E02173,sinus tachycardia
+2174,E02175,t wave inversion
+2175,E02176,low qrs voltages
+2180,E02181,sinus tachycardia
+2186,E02187,sinus tachycardia
+2187,E02188,sinus rhythm
+2188,E02189,left atrial enlargement
+2193,E02194,left ventricular hypertrophy
+2195,E02196,left axis deviation
+2199,E02200,left bundle branch block
+2206,E02207,sinus rhythm
+2212,E02213,sinus tachycardia
+2217,E02218,sinus tachycardia
+2219,E02220,sinus rhythm
+2228,E02229,sinus rhythm
+2229,E02230,sinus rhythm
+2230,E02231,sinus tachycardia
+2231,E02232,left axis deviation
+2232,E02233,sinus rhythm
+2239,E02240,sinus rhythm
+2240,E02241,sinus rhythm
+2241,E02242,low qrs voltages
+2243,E02244,sinus rhythm
+2245,E02246,left ventricular hypertrophy
+2246,E02247,left ventricular hypertrophy
+2247,E02248,nonspecific st t abnormality
+2248,E02249,sinus rhythm
+2251,E02252,prolonged qt interval
+2252,E02253,sinus rhythm
+2257,E02258,atrial fibrillation
+2263,E02264,sinus rhythm
+2265,E02266,sinus tachycardia
+2266,E02267,ventricular premature beats
+2269,E02270,sinus rhythm
+2277,E02278,ventricular pacing pattern
+2280,E02281,sinus rhythm
+2282,E02283,incomplete right bundle branch block
+2285,E02286,sinus rhythm
+2287,E02288,nonspecific st t abnormality
+2288,E02289,left bundle branch block
+2290,E02291,sinus rhythm
+2291,E02292,sinus rhythm
+2293,E02294,left ventricular hypertrophy
+2294,E02295,left ventricular hypertrophy
+2296,E02297,left atrial enlargement
+2303,E02304,sinus tachycardia
+2306,E02307,sinus rhythm
+2307,E02308,sinus rhythm
+2310,E02311,left atrial enlargement
+2311,E02312,nonspecific st t abnormality
+2312,E02313,right bundle branch block
+2313,E02314,right bundle branch block
+2314,E02315,nonspecific st t abnormality
+2317,E02318,sinus tachycardia
+2318,E02319,sinus rhythm
+2321,E02322,sinus tachycardia
+2323,E02324,sinus rhythm
+2326,E02327,left axis deviation
+2330,E02331,sinus tachycardia
+2337,E02338,sinus bradycardia
+2338,E02339,nonspecific st t abnormality
+2345,E02346,left atrial enlargement
+2346,E02347,sinus rhythm
+2347,E02348,sinus rhythm
+2357,E02358,lateral ischaemia
+2360,E02361,sinus tachycardia
+2361,E02362,left ventricular hypertrophy
+2367,E02368,left ventricular hypertrophy
+2369,E02370,sinus rhythm
+2370,E02371,sinus rhythm
+2372,E02373,lateral ischaemia
+2374,E02375,sinus rhythm
+2377,E02378,sinus bradycardia
+2378,E02379,sinus rhythm
+2380,E02381,sinus rhythm
+2381,E02382,sinus rhythm
+2382,E02383,nonspecific st t abnormality
+2383,E02384,sinus rhythm
+2387,E02388,right bundle branch block
+2389,E02390,right bundle branch block
+2390,E02391,sinus rhythm
+2396,E02397,1st degree av block
+2398,E02399,sinus rhythm
+2399,E02400,sinus rhythm
+2404,E02405,sinus bradycardia
+2405,E02406,sinus rhythm
+2406,E02407,sinus rhythm
+2407,E02408,prolonged qt interval
+2408,E02409,low qrs voltages
+2409,E02410,nonspecific st t abnormality
+2410,E02411,ventricular pacing pattern
+2412,E02413,left atrial enlargement
+2416,E02417,sinus rhythm
+2417,E02418,sinus rhythm
+2420,E02421,sinus rhythm
+2425,E02426,1st degree av block
+2426,E02427,t wave abnormal
+2427,E02428,sinus bradycardia
+2428,E02429,sinus rhythm
+2434,E02435,t wave abnormal
+2445,E02446,sinus rhythm
+2447,E02448,nonspecific st t abnormality
+2448,E02449,sinus rhythm
+2449,E02450,low qrs voltages
+2462,E02463,left axis deviation
+2464,E02465,sinus rhythm
+2468,E02469,sinus bradycardia
+2470,E02471,left axis deviation
+2475,E02476,sinus rhythm
+2477,E02478,sinus rhythm
+2478,E02479,sinus rhythm
+2480,E02481,sinus rhythm
+2484,E02485,nonspecific st t abnormality
+2485,E02486,sinus tachycardia
+2493,E02494,t wave abnormal
+2499,E02500,left ventricular hypertrophy
+2501,E02502,sinus rhythm
+2504,E02505,sinus rhythm
+2506,E02507,sinus rhythm
+2508,E02509,sinus rhythm
+2509,E02510,sinus rhythm
+2510,E02511,sinus rhythm
+2513,E02514,sinus rhythm
+2517,E02518,sinus rhythm
+2518,E02519,sinus rhythm
+2520,E02521,sinus tachycardia
+2525,E02526,sinus rhythm
+2538,E02539,sinus tachycardia
+2547,E02548,1st degree av block
+2549,E02550,sinus bradycardia
+2551,E02552,sinus rhythm
+2552,E02553,left atrial enlargement
+2553,E02554,sinus rhythm
+2555,E02556,sinus rhythm
+2557,E02558,left atrial enlargement
+2558,E02559,sinus bradycardia
+2559,E02560,sinus rhythm
+2560,E02561,nonspecific st t abnormality
+2561,E02562,sinus rhythm
+2564,E02565,sinus rhythm
+2565,E02566,sinus rhythm
+2570,E02571,sinus bradycardia
+2571,E02572,sinus rhythm
+2573,E02574,nonspecific st t abnormality
+2579,E02580,left ventricular hypertrophy
+2582,E02583,nonspecific st t abnormality
+2583,E02584,sinus rhythm
+2584,E02585,sinus rhythm
+2585,E02586,sinus rhythm
+2589,E02590,sinus tachycardia
+2591,E02592,sinus rhythm
+2595,E02596,right bundle branch block
+2599,E02600,nonspecific st t abnormality
+2601,E02602,sinus rhythm
+2604,E02605,sinus rhythm
+2609,E02610,nonspecific st t abnormality
+2611,E02612,sinus rhythm
+2614,E02615,sinus rhythm
+2615,E02616,atrial fibrillation
+2616,E02617,left axis deviation
+2619,E02620,sinus rhythm
+2622,E02623,left bundle branch block
+2630,E02631,sinus tachycardia
+2631,E02632,sinus tachycardia
+2633,E02634,sinus rhythm
+2639,E02640,sinus rhythm
+2642,E02643,nonspecific st t abnormality
+2644,E02645,atrial flutter
+2647,E02648,sinus rhythm
+2648,E02649,sinus bradycardia
+2649,E02650,sinus rhythm
+2650,E02651,sinus rhythm
+2651,E02652,left ventricular hypertrophy
+2657,E02658,nonspecific st t abnormality
+2662,E02663,right bundle branch block
+2664,E02665,sinus tachycardia
+2665,E02666,sinus tachycardia
+2667,E02668,incomplete right bundle branch block
+2669,E02670,sinus rhythm
+2675,E02676,sinus tachycardia
+2676,E02677,sinus rhythm
+2677,E02678,sinus rhythm
+2679,E02680,left ventricular hypertrophy
+2680,E02681,left ventricular hypertrophy
+2681,E02682,left ventricular hypertrophy
+2682,E02683,left ventricular hypertrophy
+2683,E02684,t wave inversion
+2688,E02689,nonspecific st t abnormality
+2689,E02690,sinus bradycardia
+2694,E02695,sinus rhythm
+2695,E02696,sinus rhythm
+2696,E02697,sinus rhythm
+2697,E02698,sinus tachycardia
+2699,E02700,sinus arrhythmia
+2705,E02706,left ventricular hypertrophy
+2712,E02713,sinus tachycardia
+2719,E02720,sinus arrhythmia
+2723,E02724,left ventricular hypertrophy
+2725,E02726,ventricular pacing pattern
+2729,E02730,prolonged qt interval
+2730,E02731,left ventricular hypertrophy
+2732,E02733,sinus rhythm
+2743,E02744,sinus rhythm
+2745,E02746,sinus bradycardia
+2749,E02750,sinus bradycardia
+2755,E02756,sinus rhythm
+2756,E02757,sinus bradycardia
+2758,E02759,sinus rhythm
+2760,E02761,sinus rhythm
+2763,E02764,nonspecific st t abnormality
+2767,E02768,nonspecific st t abnormality
+2771,E02772,sinus rhythm
+2772,E02773,sinus tachycardia
+2782,E02783,sinus bradycardia
+2783,E02784,nonspecific st t abnormality
+2784,E02785,nonspecific st t abnormality
+2786,E02787,sinus rhythm
+2791,E02792,sinus tachycardia
+2793,E02794,t wave abnormal
+2794,E02795,left axis deviation
+2799,E02800,sinus bradycardia
+2806,E02807,left axis deviation
+2807,E02808,sinus rhythm
+2808,E02809,atrial fibrillation
+2814,E02815,left ventricular hypertrophy
+2815,E02816,ventricular premature beats
+2817,E02818,sinus rhythm
+2818,E02819,sinus rhythm
+2822,E02823,nonspecific st t abnormality
+2824,E02825,sinus rhythm
+2826,E02827,sinus rhythm
+2834,E02835,sinus rhythm
+2836,E02837,sinus rhythm
+2837,E02838,sinus rhythm
+2839,E02840,sinus tachycardia
+2841,E02842,sinus tachycardia
+2843,E02844,nonspecific st t abnormality
+2844,E02845,t wave abnormal
+2856,E02857,sinus bradycardia
+2857,E02858,sinus bradycardia
+2858,E02859,atrial fibrillation
+2866,E02867,sinus arrhythmia
+2871,E02872,sinus bradycardia
+2873,E02874,complete right bundle branch block
+2877,E02878,ventricular pacing pattern
+2879,E02880,prolonged qt interval
+2881,E02882,left atrial enlargement
+2882,E02883,t wave inversion
+2889,E02890,sinus rhythm
+2890,E02891,sinus rhythm
+2893,E02894,sinus rhythm
+2894,E02895,sinus bradycardia
+2896,E02897,nonspecific st t abnormality
+2897,E02898,left axis deviation
+2908,E02909,sinus bradycardia
+2909,E02910,t wave abnormal
+2916,E02917,sinus tachycardia
+2917,E02918,prolonged qt interval
+2918,E02919,sinus tachycardia
+2920,E02921,sinus rhythm
+2924,E02925,sinus tachycardia
+2933,E02934,nonspecific intraventricular conduction disorder
+2934,E02935,sinus bradycardia
+2936,E02937,left atrial enlargement
+2938,E02939,sinus bradycardia
+2942,E02943,nonspecific intraventricular conduction disorder
+2943,E02944,sinus arrhythmia
+2947,E02948,sinus bradycardia
+2950,E02951,sinus rhythm
+2956,E02957,sinus rhythm
+2959,E02960,left ventricular hypertrophy
+2962,E02963,sinus rhythm
+2965,E02966,right bundle branch block
+2970,E02971,left atrial enlargement
+2974,E02975,sinus rhythm
+2975,E02976,nonspecific st t abnormality
+2976,E02977,left ventricular hypertrophy
+2981,E02982,right bundle branch block
+2983,E02984,left ventricular hypertrophy
+2988,E02989,left bundle branch block
+2994,E02995,sinus bradycardia
+2996,E02997,sinus bradycardia
+3002,E03003,left ventricular hypertrophy
+3004,E03005,sinus rhythm
+3007,E03008,nonspecific st t abnormality
+3012,E03013,sinus rhythm
+3015,E03016,left atrial enlargement
+3016,E03017,sinus rhythm
+3017,E03018,1st degree av block
+3018,E03019,sinus rhythm
+3019,E03020,sinus rhythm
+3021,E03022,sinus rhythm
+3022,E03023,sinus bradycardia
+3026,E03027,left ventricular hypertrophy
+3027,E03028,left ventricular hypertrophy
+3031,E03032,sinus rhythm
+3032,E03033,sinus rhythm
+3033,E03034,right bundle branch block
+3037,E03038,sinus bradycardia
+3039,E03040,t wave abnormal
+3043,E03044,sinus rhythm
+3044,E03045,sinus rhythm
+3046,E03047,sinus rhythm
+3050,E03051,sinus rhythm
+3051,E03052,1st degree av block
+3054,E03055,sinus rhythm
+3055,E03056,sinus rhythm
+3061,E03062,left ventricular hypertrophy
+3064,E03065,sinus rhythm
+3070,E03071,sinus rhythm
+3073,E03074,left ventricular hypertrophy
+3074,E03075,nonspecific st t abnormality
+3076,E03077,sinus rhythm
+3078,E03079,sinus bradycardia
+3081,E03082,nonspecific st t abnormality
+3086,E03087,atrial fibrillation
+3088,E03089,ventricular pacing pattern
+3090,E03091,sinus rhythm
+3091,E03092,sinus rhythm
+3092,E03093,left atrial enlargement
+3093,E03094,ventricular premature beats
+3094,E03095,sinus rhythm
+3095,E03096,left atrial enlargement
+3098,E03099,sinus bradycardia
+3101,E03102,left atrial enlargement
+3102,E03103,sinus rhythm
+3103,E03104,sinus rhythm
+3104,E03105,sinus rhythm
+3108,E03109,sinus rhythm
+3110,E03111,sinus rhythm
+3111,E03112,sinus rhythm
+3112,E03113,left atrial enlargement
+3113,E03114,sinus bradycardia
+3114,E03115,sinus rhythm
+3117,E03118,left atrial enlargement
+3118,E03119,left atrial enlargement
+3120,E03121,sinus bradycardia
+3121,E03122,prolonged qt interval
+3123,E03124,left ventricular hypertrophy
+3124,E03125,sinus rhythm
+3125,E03126,sinus rhythm
+3132,E03133,sinus bradycardia
+3134,E03135,sinus rhythm
+3140,E03141,sinus tachycardia
+3141,E03142,sinus rhythm
+3145,E03146,sinus rhythm
+3159,E03160,sinus bradycardia
+3161,E03162,sinus tachycardia
+3162,E03163,sinus rhythm
+3163,E03164,sinus bradycardia
+3170,E03171,atrial fibrillation
+3172,E03173,sinus rhythm
+3175,E03176,sinus rhythm
+3185,E03186,sinus rhythm
+3189,E03190,ventricular pacing pattern
+3190,E03191,left bundle branch block
+3192,E03193,sinus rhythm
+3193,E03194,left atrial enlargement
+3196,E03197,right bundle branch block
+3200,E03201,right bundle branch block
+3210,E03211,sinus rhythm
+3212,E03213,sinus rhythm
+3213,E03214,left atrial enlargement
+3215,E03216,left atrial enlargement
+3219,E03220,sinus rhythm
+3221,E03222,low qrs voltages
+3227,E03228,sinus tachycardia
+3229,E03230,sinus rhythm
+3233,E03234,ventricular pacing pattern
+3235,E03236,sinus rhythm
+3236,E03237,sinus rhythm
+3241,E03242,sinus rhythm
+3242,E03243,right bundle branch block
+3245,E03246,left ventricular hypertrophy
+3248,E03249,left ventricular hypertrophy
+3249,E03250,sinus rhythm
+3250,E03251,sinus rhythm
+3260,E03261,sinus rhythm
+3261,E03262,sinus rhythm
+3267,E03268,sinus bradycardia
+3269,E03270,sinus bradycardia
+3277,E03278,sinus rhythm
+3285,E03286,sinus rhythm
+3287,E03288,sinus rhythm
+3289,E03290,sinus rhythm
+3290,E03291,sinus rhythm
+3292,E03293,early repolarization
+3293,E03294,sinus rhythm
+3296,E03297,sinus bradycardia
+3298,E03299,low qrs voltages
+3301,E03302,low qrs voltages
+3303,E03304,sinus tachycardia
+3305,E03306,left ventricular hypertrophy
+3308,E03309,sinus rhythm
+3309,E03310,sinus rhythm
+3312,E03313,sinus bradycardia
+3314,E03315,sinus rhythm
+3315,E03316,sinus rhythm
+3316,E03317,1st degree av block
+3317,E03318,left ventricular hypertrophy
+3318,E03319,sinus rhythm
+3326,E03327,sinus rhythm
+3329,E03330,left axis deviation
+3330,E03331,left axis deviation
+3331,E03332,sinus rhythm
+3339,E03340,atrial fibrillation
+3340,E03341,left ventricular hypertrophy
+3344,E03345,t wave inversion
+3348,E03349,sinus rhythm
+3350,E03351,incomplete right bundle branch block
+3352,E03353,nonspecific st t abnormality
+3358,E03359,sinus rhythm
+3359,E03360,sinus rhythm
+3370,E03371,nonspecific st t abnormality
+3371,E03372,left axis deviation
+3378,E03379,left axis deviation
+3381,E03382,sinus arrhythmia
+3385,E03386,t wave abnormal
+3396,E03397,nonspecific st t abnormality
+3397,E03398,sinus rhythm
+3398,E03399,sinus rhythm
+3401,E03402,sinus rhythm
+3412,E03413,sinus bradycardia
+3414,E03415,sinus rhythm
+3418,E03419,sinus tachycardia
+3420,E03421,sinus rhythm
+3421,E03422,sinus rhythm
+3425,E03426,t wave abnormal
+3427,E03428,t wave abnormal
+3428,E03429,sinus bradycardia
+3429,E03430,sinus rhythm
+3430,E03431,left atrial enlargement
+3435,E03436,nonspecific st t abnormality
+3438,E03439,left axis deviation
+3443,E03444,sinus rhythm
+3447,E03448,sinus rhythm
+3448,E03449,atrial fibrillation
+3454,E03455,left axis deviation
+3459,E03460,left axis deviation
+3462,E03463,left axis deviation
+3463,E03464,sinus rhythm
+3465,E03466,left ventricular hypertrophy
+3466,E03467,nonspecific st t abnormality
+3471,E03472,sinus bradycardia
+3476,E03477,left ventricular hypertrophy
+3477,E03478,sinus rhythm
+3481,E03482,ventricular premature beats
+3482,E03483,sinus rhythm
+3488,E03489,nonspecific st t abnormality
+3491,E03492,nonspecific st t abnormality
+3492,E03493,ventricular premature beats
+3494,E03495,sinus rhythm
+3497,E03498,sinus rhythm
+3503,E03504,t wave abnormal
+3505,E03506,sinus bradycardia
+3507,E03508,sinus rhythm
+3516,E03517,sinus rhythm
+3518,E03519,sinus rhythm
+3519,E03520,sinus rhythm
+3525,E03526,sinus rhythm
+3526,E03527,sinus rhythm
+3527,E03528,sinus rhythm
+3530,E03531,sinus rhythm
+3531,E03532,atrial fibrillation
+3534,E03535,left ventricular hypertrophy
+3536,E03537,sinus rhythm
+3537,E03538,sinus rhythm
+3538,E03539,nonspecific st t abnormality
+3539,E03540,incomplete right bundle branch block
+3541,E03542,nonspecific st t abnormality
+3542,E03543,sinus bradycardia
+3549,E03550,sinus bradycardia
+3551,E03552,sinus rhythm
+3557,E03558,nonspecific st t abnormality
+3558,E03559,sinus rhythm
+3559,E03560,sinus rhythm
+3562,E03563,right bundle branch block
+3564,E03565,low qrs voltages
+3565,E03566,low qrs voltages
+3568,E03569,sinus rhythm
+3570,E03571,sinus rhythm
+3576,E03577,low qrs voltages
+3577,E03578,left atrial enlargement
+3579,E03580,left ventricular hypertrophy
+3586,E03587,sinus rhythm
+3587,E03588,right bundle branch block
+3591,E03592,sinus rhythm
+3594,E03595,sinus bradycardia
+3596,E03597,sinus rhythm
+3597,E03598,sinus rhythm
+3600,E03601,sinus rhythm
+3601,E03602,sinus rhythm
+3608,E03609,sinus tachycardia
+3609,E03610,sinus rhythm
+3610,E03611,sinus rhythm
+3612,E03613,sinus rhythm
+3613,E03614,sinus bradycardia
+3617,E03618,left ventricular hypertrophy
+3622,E03623,sinus rhythm
+3623,E03624,t wave inversion
+3628,E03629,sinus rhythm
+3631,E03632,sinus rhythm
+3632,E03633,left ventricular hypertrophy
+3634,E03635,left ventricular hypertrophy
+3635,E03636,nonspecific st t abnormality
+3636,E03637,nonspecific st t abnormality
+3637,E03638,sinus rhythm
+3638,E03639,sinus rhythm
+3643,E03644,sinus rhythm
+3644,E03645,sinus rhythm
+3646,E03647,early repolarization
+3647,E03648,sinus rhythm
+3650,E03651,sinus rhythm
+3652,E03653,left ventricular hypertrophy
+3653,E03654,sinus rhythm
+3659,E03660,sinus bradycardia
+3660,E03661,sinus tachycardia
+3663,E03664,sinus rhythm
+3667,E03668,sinus rhythm
+3671,E03672,sinus rhythm
+3679,E03680,sinus rhythm
+3683,E03684,sinus rhythm
+3696,E03697,sinus bradycardia
+3701,E03702,1st degree av block
+3703,E03704,sinus rhythm
+3706,E03707,left ventricular hypertrophy
+3707,E03708,1st degree av block
+3711,E03712,sinus rhythm
+3712,E03713,1st degree av block
+3713,E03714,sinus tachycardia
+3714,E03715,sinus rhythm
+3720,E03721,left atrial enlargement
+3722,E03723,left ventricular hypertrophy
+3728,E03729,sinus tachycardia
+3729,E03730,left atrial enlargement
+3739,E03740,left anterior fascicular block
+3741,E03742,sinus rhythm
+3742,E03743,sinus rhythm
+3743,E03744,t wave abnormal
+3744,E03745,sinus rhythm
+3747,E03748,sinus rhythm
+3752,E03753,sinus rhythm
+3753,E03754,sinus bradycardia
+3754,E03755,left atrial enlargement
+3755,E03756,left anterior fascicular block
+3756,E03757,sinus bradycardia
+3764,E03765,sinus bradycardia
+3765,E03766,sinus rhythm
+3766,E03767,sinus rhythm
+3767,E03768,sinus rhythm
+3771,E03772,left ventricular hypertrophy
+3777,E03778,left axis deviation
+3788,E03789,sinus rhythm
+3790,E03791,sinus rhythm
+3792,E03793,left ventricular hypertrophy
+3794,E03795,sinus rhythm
+3795,E03796,sinus rhythm
+3799,E03800,left ventricular hypertrophy
+3800,E03801,nonspecific intraventricular conduction disorder
+3801,E03802,right bundle branch block
+3804,E03805,t wave inversion
+3805,E03806,nonspecific st t abnormality
+3806,E03807,sinus rhythm
+3808,E03809,sinus rhythm
+3809,E03810,atrial fibrillation
+3818,E03819,left bundle branch block
+3823,E03824,sinus rhythm
+3827,E03828,sinus tachycardia
+3828,E03829,left ventricular hypertrophy
+3831,E03832,sinus arrhythmia
+3835,E03836,sinus rhythm
+3836,E03837,sinus tachycardia
+3838,E03839,sinus rhythm
+3839,E03840,sinus bradycardia
+3840,E03841,sinus rhythm
+3841,E03842,sinus rhythm
+3842,E03843,nonspecific st t abnormality
+3845,E03846,sinus rhythm
+3847,E03848,sinus rhythm
+3854,E03855,atrial fibrillation
+3861,E03862,sinus rhythm
+3865,E03866,sinus bradycardia
+3866,E03867,sinus rhythm
+3867,E03868,sinus rhythm
+3868,E03869,sinus rhythm
+3872,E03873,sinus rhythm
+3875,E03876,sinus bradycardia
+3876,E03877,sinus bradycardia
+3879,E03880,right bundle branch block
+3883,E03884,sinus rhythm
+3886,E03887,sinus rhythm
+3890,E03891,sinus rhythm
+3900,E03901,sinus rhythm
+3902,E03903,sinus bradycardia
+3907,E03908,sinus rhythm
+3908,E03909,sinus rhythm
+3909,E03910,nonspecific st t abnormality
+3910,E03911,sinus rhythm
+3916,E03917,sinus rhythm
+3918,E03919,sinus rhythm
+3919,E03920,sinus rhythm
+3920,E03921,left atrial enlargement
+3922,E03923,nonspecific st t abnormality
+3924,E03925,sinus rhythm
+3925,E03926,left bundle branch block
+3927,E03928,sinus bradycardia
+3929,E03930,sinus rhythm
+3931,E03932,left ventricular hypertrophy
+3932,E03933,sinus rhythm
+3935,E03936,nonspecific st t abnormality
+3940,E03941,sinus rhythm
+3946,E03947,sinus bradycardia
+3950,E03951,sinus rhythm
+3951,E03952,nonspecific st t abnormality
+3954,E03955,sinus bradycardia
+3955,E03956,sinus bradycardia
+3956,E03957,sinus bradycardia
+3964,E03965,sinus arrhythmia
+3966,E03967,sinus rhythm
+3967,E03968,left ventricular hypertrophy
+3969,E03970,1st degree av block
+3975,E03976,sinus rhythm
+3977,E03978,sinus bradycardia
+3978,E03979,sinus rhythm
+3981,E03982,sinus rhythm
+3982,E03983,sinus rhythm
+3983,E03984,sinus tachycardia
+3992,E03993,1st degree av block
+3993,E03994,left ventricular hypertrophy
+3994,E03995,sinus rhythm
+4001,E04002,sinus bradycardia
+4002,E04003,sinus rhythm
+4004,E04005,left atrial enlargement
+4005,E04006,sinus bradycardia
+4007,E04008,sinus rhythm
+4014,E04015,sinus rhythm
+4018,E04019,1st degree av block
+4023,E04024,sinus bradycardia
+4024,E04025,sinus bradycardia
+4026,E04027,sinus rhythm
+4034,E04035,atrial fibrillation
+4036,E04037,sinus rhythm
+4039,E04040,sinus rhythm
+4042,E04043,left atrial enlargement
+4043,E04044,left atrial enlargement
+4060,E04061,sinus rhythm
+4066,E04067,t wave abnormal
+4069,E04070,sinus rhythm
+4070,E04071,left ventricular hypertrophy
+4071,E04072,sinus rhythm
+4072,E04073,right bundle branch block
+4080,E04081,atrial fibrillation
+4081,E04082,left ventricular hypertrophy
+4082,E04083,low qrs voltages
+4083,E04084,sinus rhythm
+4087,E04088,sinus rhythm
+4089,E04090,1st degree av block
+4096,E04097,sinus rhythm
+4098,E04099,sinus rhythm
+4109,E04110,sinus rhythm
+4121,E04122,sinus rhythm
+4122,E04123,sinus rhythm
+4124,E04125,nonspecific st t abnormality
+4126,E04127,left ventricular hypertrophy
+4129,E04130,right bundle branch block
+4131,E04132,right bundle branch block
+4136,E04137,left atrial enlargement
+4142,E04143,left ventricular hypertrophy
+4143,E04144,left ventricular hypertrophy
+4145,E04146,sinus rhythm
+4149,E04150,sinus bradycardia
+4150,E04151,sinus rhythm
+4152,E04153,nonspecific st t abnormality
+4153,E04154,t wave abnormal
+4157,E04158,sinus rhythm
+4159,E04160,sinus rhythm
+4162,E04163,left atrial enlargement
+4163,E04164,sinus tachycardia
+4165,E04166,sinus tachycardia
+4167,E04168,sinus bradycardia
+4172,E04173,sinus rhythm
+4174,E04175,lateral ischaemia
+4175,E04176,sinus rhythm
+4176,E04177,sinus bradycardia
+4177,E04178,sinus rhythm
+4178,E04179,sinus rhythm
+4181,E04182,sinus rhythm
+4182,E04183,t wave inversion
+4187,E04188,sinus rhythm
+4190,E04191,sinus bradycardia
+4191,E04192,sinus bradycardia
+4196,E04197,t wave inversion
+4199,E04200,sinus tachycardia
+4203,E04204,nonspecific st t abnormality
+4211,E04212,1st degree av block
+4226,E04227,sinus rhythm
+4231,E04232,sinus rhythm
+4235,E04236,t wave inversion
+4237,E04238,sinus rhythm
+4238,E04239,left ventricular hypertrophy
+4242,E04243,left ventricular hypertrophy
+4246,E04247,sinus rhythm
+4247,E04248,sinus bradycardia
+4251,E04252,t wave inversion
+4253,E04254,left ventricular hypertrophy
+4255,E04256,left ventricular hypertrophy
+4257,E04258,nonspecific st t abnormality
+4258,E04259,sinus rhythm
+4262,E04263,sinus rhythm
+4263,E04264,sinus rhythm
+4265,E04266,t wave abnormal
+4266,E04267,sinus bradycardia
+4271,E04272,left atrial enlargement
+4273,E04274,sinus rhythm
+4276,E04277,sinus rhythm
+4279,E04280,sinus rhythm
+4284,E04285,sinus rhythm
+4288,E04289,sinus bradycardia
+4297,E04298,sinus bradycardia
+4301,E04302,sinus rhythm
+4302,E04303,sinus rhythm
+4303,E04304,low qrs voltages
+4306,E04307,sinus rhythm
+4307,E04308,sinus rhythm
+4317,E04318,t wave inversion
+4322,E04323,sinus rhythm
+4325,E04326,sinus bradycardia
+4326,E04327,sinus bradycardia
+4328,E04329,sinus rhythm
+4329,E04330,sinus rhythm
+4332,E04333,sinus bradycardia
+4335,E04336,sinus rhythm
+4336,E04337,sinus rhythm
+4338,E04339,sinus bradycardia
+4345,E04346,sinus rhythm
+4347,E04348,nonspecific st t abnormality
+4361,E04362,sinus rhythm
+4362,E04363,sinus rhythm
+4364,E04365,sinus rhythm
+4381,E04382,sinus rhythm
+4387,E04388,sinus rhythm
+4389,E04390,sinus rhythm
+4390,E04391,nonspecific st t abnormality
+4392,E04393,nonspecific st t abnormality
+4393,E04394,left axis deviation
+4396,E04397,sinus tachycardia
+4400,E04401,left atrial enlargement
+4401,E04402,left ventricular hypertrophy
+4402,E04403,sinus rhythm
+4407,E04408,left ventricular hypertrophy
+4411,E04412,sinus rhythm
+4412,E04413,nonspecific st t abnormality
+4413,E04414,sinus rhythm
+4414,E04415,sinus tachycardia
+4418,E04419,sinus rhythm
+4420,E04421,t wave inversion
+4421,E04422,sinus tachycardia
+4423,E04424,sinus rhythm
+4424,E04425,atrial fibrillation
+4425,E04426,sinus arrhythmia
+4426,E04427,atrial flutter
+4428,E04429,sinus rhythm
+4429,E04430,sinus rhythm
+4431,E04432,early repolarization
+4432,E04433,nonspecific st t abnormality
+4435,E04436,atrial fibrillation
+4437,E04438,atrial fibrillation
+4438,E04439,sinus rhythm
+4446,E04447,sinus bradycardia
+4448,E04449,sinus rhythm
+4451,E04452,sinus rhythm
+4452,E04453,sinus rhythm
+4454,E04455,sinus bradycardia
+4456,E04457,sinus tachycardia
+4462,E04463,t wave abnormal
+4463,E04464,sinus rhythm
+4467,E04468,left bundle branch block
+4469,E04470,sinus rhythm
+4472,E04473,nonspecific st t abnormality
+4477,E04478,sinus rhythm
+4481,E04482,1st degree av block
+4483,E04484,sinus rhythm
+4485,E04486,sinus rhythm
+4487,E04488,sinus rhythm
+4489,E04490,sinus tachycardia
+4491,E04492,t wave abnormal
+4494,E04495,left ventricular hypertrophy
+4495,E04496,left ventricular hypertrophy
+4500,E04501,sinus bradycardia
+4501,E04502,sinus rhythm
+4504,E04505,sinus rhythm
+4505,E04506,sinus rhythm
+4507,E04508,sinus rhythm
+4508,E04509,sinus rhythm
+4510,E04511,sinus rhythm
+4511,E04512,nonspecific st t abnormality
+4512,E04513,left atrial enlargement
+4515,E04516,sinus rhythm
+4516,E04517,sinus rhythm
+4518,E04519,sinus bradycardia
+4519,E04520,sinus tachycardia
+4524,E04525,left bundle branch block
+4526,E04527,sinus rhythm
+4527,E04528,sinus bradycardia
+4528,E04529,sinus rhythm
+4529,E04530,sinus rhythm
+4530,E04531,sinus rhythm
+4531,E04532,sinus rhythm
+4533,E04534,sinus arrhythmia
+4539,E04540,sinus tachycardia
+4540,E04541,nonspecific st t abnormality
+4543,E04544,low qrs voltages
+4548,E04549,sinus rhythm
+4551,E04552,sinus rhythm
+4554,E04555,sinus rhythm
+4558,E04559,sinus rhythm
+4564,E04565,ventricular premature beats
+4565,E04566,sinus rhythm
+4566,E04567,atrial fibrillation
+4567,E04568,sinus rhythm
+4571,E04572,left ventricular hypertrophy
+4573,E04574,sinus rhythm
+4574,E04575,sinus rhythm
+4575,E04576,sinus rhythm
+4584,E04585,sinus rhythm
+4586,E04587,left ventricular hypertrophy
+4587,E04588,low qrs voltages
+4588,E04589,sinus rhythm
+4589,E04590,sinus arrhythmia
+4591,E04592,nonspecific st t abnormality
+4596,E04597,sinus rhythm
+4598,E04599,left atrial enlargement
+4606,E04607,sinus bradycardia
+4607,E04608,sinus rhythm
+4610,E04611,1st degree av block
+4611,E04612,1st degree av block
+4612,E04613,sinus rhythm
+4613,E04614,sinus rhythm
+4614,E04615,left atrial enlargement
+4615,E04616,sinus rhythm
+4618,E04619,sinus rhythm
+4619,E04620,sinus tachycardia
+4622,E04623,sinus rhythm
+4630,E04631,left ventricular hypertrophy
+4635,E04636,sinus rhythm
+4639,E04640,left ventricular hypertrophy
+4640,E04641,right bundle branch block
+4641,E04642,sinus rhythm
+4642,E04643,sinus rhythm
+4647,E04648,1st degree av block
+4648,E04649,sinus rhythm
+4649,E04650,sinus rhythm
+4652,E04653,sinus rhythm
+4657,E04658,sinus rhythm
+4658,E04659,st interval abnormal
+4659,E04660,sinus tachycardia
+4661,E04662,sinus arrhythmia
+4663,E04664,left ventricular hypertrophy
+4666,E04667,sinus rhythm
+4671,E04672,1st degree av block
+4674,E04675,sinus rhythm
+4676,E04677,sinus rhythm
+4678,E04679,sinus bradycardia
+4680,E04681,sinus rhythm
+4685,E04686,left ventricular hypertrophy
+4686,E04687,incomplete left bundle branch block
+4687,E04688,sinus bradycardia
+4689,E04690,sinus rhythm
+4692,E04693,sinus rhythm
+4693,E04694,nonspecific st t abnormality
+4695,E04696,left ventricular hypertrophy
+4697,E04698,sinus bradycardia
+4698,E04699,sinus bradycardia
+4703,E04704,left axis deviation
+4704,E04705,t wave abnormal
+4705,E04706,sinus rhythm
+4706,E04707,left atrial enlargement
+4707,E04708,sinus bradycardia
+4708,E04709,sinus bradycardia
+4710,E04711,left atrial enlargement
+4711,E04712,sinus rhythm
+4712,E04713,left axis deviation
+4717,E04718,sinus rhythm
+4718,E04719,nonspecific st t abnormality
+4724,E04725,sinus rhythm
+4725,E04726,sinus rhythm
+4729,E04730,left ventricular hypertrophy
+4730,E04731,sinus bradycardia
+4732,E04733,sinus rhythm
+4733,E04734,left axis deviation
+4734,E04735,sinus rhythm
+4737,E04738,sinus bradycardia
+4740,E04741,sinus rhythm
+4742,E04743,sinus rhythm
+4745,E04746,lateral ischaemia
+4746,E04747,left bundle branch block
+4747,E04748,sinus rhythm
+4753,E04754,sinus rhythm
+4755,E04756,ventricular premature beats
+4756,E04757,sinus bradycardia
+4759,E04760,sinus rhythm
+4761,E04762,sinus bradycardia
+4765,E04766,sinus bradycardia
+4766,E04767,sinus bradycardia
+4768,E04769,left anterior fascicular block
+4769,E04770,sinus rhythm
+4771,E04772,sinus bradycardia
+4776,E04777,left atrial enlargement
+4779,E04780,sinus rhythm
+4781,E04782,sinus rhythm
+4782,E04783,left ventricular hypertrophy
+4784,E04785,right bundle branch block
+4789,E04790,left ventricular hypertrophy
+4791,E04792,sinus rhythm
+4792,E04793,sinus arrhythmia
+4799,E04800,sinus rhythm
+4800,E04801,sinus arrhythmia
+4801,E04802,sinus rhythm
+4802,E04803,atrial fibrillation
+4803,E04804,sinus rhythm
+4805,E04806,sinus bradycardia
+4806,E04807,sinus rhythm
+4807,E04808,sinus rhythm
+4808,E04809,sinus rhythm
+4813,E04814,sinus rhythm
+4814,E04815,sinus rhythm
+4815,E04816,sinus rhythm
+4817,E04818,left axis deviation
+4818,E04819,nonspecific st t abnormality
+4820,E04821,sinus bradycardia
+4824,E04825,1st degree av block
+4825,E04826,t wave abnormal
+4826,E04827,right bundle branch block
+4827,E04828,sinus rhythm
+4833,E04834,left ventricular hypertrophy
+4835,E04836,sinus bradycardia
+4836,E04837,sinus rhythm
+4841,E04842,sinus bradycardia
+4842,E04843,sinus rhythm
+4843,E04844,sinus bradycardia
+4844,E04845,sinus bradycardia
+4848,E04849,t wave abnormal
+4849,E04850,sinus rhythm
+4850,E04851,sinus rhythm
+4854,E04855,nonspecific st t abnormality
+4864,E04865,sinus bradycardia
+4866,E04867,sinus rhythm
+4869,E04870,sinus rhythm
+4870,E04871,sinus tachycardia
+4874,E04875,sinus rhythm
+4882,E04883,sinus rhythm
+4885,E04886,sinus rhythm
+4886,E04887,sinus rhythm
+4887,E04888,sinus rhythm
+4888,E04889,atrial fibrillation
+4889,E04890,sinus rhythm
+4890,E04891,left atrial enlargement
+4893,E04894,sinus tachycardia
+4894,E04895,left ventricular hypertrophy
+4895,E04896,sinus rhythm
+4896,E04897,sinus bradycardia
+4897,E04898,t wave inversion
+4901,E04902,left atrial enlargement
+4902,E04903,t wave abnormal
+4904,E04905,nonspecific st t abnormality
+4905,E04906,nonspecific st t abnormality
+4908,E04909,nonspecific st t abnormality
+4909,E04910,sinus rhythm
+4910,E04911,sinus rhythm
+4912,E04913,left axis deviation
+4916,E04917,t wave inversion
+4918,E04919,sinus rhythm
+4925,E04926,sinus bradycardia
+4927,E04928,sinus rhythm
+4928,E04929,sinus rhythm
+4929,E04930,sinus rhythm
+4932,E04933,sinus rhythm
+4933,E04934,sinus rhythm
+4936,E04937,sinus rhythm
+4937,E04938,sinus rhythm
+4938,E04939,sinus rhythm
+4940,E04941,sinus rhythm
+4944,E04945,sinus rhythm
+4948,E04949,left axis deviation
+4949,E04950,ventricular pacing pattern
+4951,E04952,1st degree av block
+4953,E04954,low qrs voltages
+4965,E04966,left ventricular hypertrophy
+4967,E04968,sinus bradycardia
+4968,E04969,sinus bradycardia
+4974,E04975,low qrs voltages
+4976,E04977,sinus rhythm
+4981,E04982,1st degree av block
+4984,E04985,sinus bradycardia
+4987,E04988,sinus bradycardia
+4989,E04990,sinus rhythm
+4993,E04994,left ventricular hypertrophy
+4994,E04995,left ventricular hypertrophy
+4996,E04997,sinus rhythm
+5000,E05001,sinus rhythm
+5006,E05007,sinus rhythm
+5013,E05014,sinus rhythm
+5014,E05015,sinus tachycardia
+5015,E05016,sinus tachycardia
+5016,E05017,sinus rhythm
+5017,E05018,sinus bradycardia
+5019,E05020,sinus bradycardia
+5023,E05024,sinus rhythm
+5028,E05029,nonspecific st t abnormality
+5032,E05033,sinus rhythm
+5033,E05034,atrial fibrillation
+5034,E05035,right bundle branch block
+5040,E05041,sinus arrhythmia
+5042,E05043,sinus rhythm
+5046,E05047,nonspecific st t abnormality
+5048,E05049,ventricular pacing pattern
+5049,E05050,sinus bradycardia
+5053,E05054,sinus bradycardia
+5054,E05055,sinus rhythm
+5057,E05058,left atrial enlargement
+5058,E05059,sinus bradycardia
+5061,E05062,sinus rhythm
+5064,E05065,sinus arrhythmia
+5065,E05066,left ventricular hypertrophy
+5067,E05068,low qrs voltages
+5069,E05070,left axis deviation
+5072,E05073,sinus rhythm
+5073,E05074,sinus rhythm
+5080,E05081,sinus rhythm
+5093,E05094,nonspecific st t abnormality
+5095,E05096,nonspecific st t abnormality
+5104,E05105,sinus rhythm
+5105,E05106,sinus rhythm
+5109,E05110,sinus rhythm
+5118,E05119,sinus tachycardia
+5119,E05120,sinus tachycardia
+5123,E05124,left ventricular hypertrophy
+5126,E05127,sinus rhythm
+5129,E05130,sinus bradycardia
+5132,E05133,sinus rhythm
+5135,E05136,left ventricular hypertrophy
+5137,E05138,nonspecific st t abnormality
+5142,E05143,sinus tachycardia
+5146,E05147,sinus arrhythmia
+5160,E05161,sinus rhythm
+5161,E05162,sinus rhythm
+5162,E05163,left axis deviation
+5164,E05165,sinus rhythm
+5165,E05166,1st degree av block
+5166,E05167,nonspecific st t abnormality
+5172,E05173,prolonged qt interval
+5176,E05177,lateral ischaemia
+5177,E05178,1st degree av block
+5178,E05179,left ventricular hypertrophy
+5185,E05186,sinus rhythm
+5190,E05191,sinus rhythm
+5191,E05192,sinus bradycardia
+5193,E05194,left bundle branch block
+5195,E05196,sinus rhythm
+5201,E05202,sinus rhythm
+5204,E05205,right bundle branch block
+5212,E05213,left ventricular hypertrophy
+5215,E05216,sinus rhythm
+5217,E05218,sinus bradycardia
+5221,E05222,sinus bradycardia
+5223,E05224,sinus bradycardia
+5226,E05227,left ventricular hypertrophy
+5228,E05229,nonspecific st t abnormality
+5230,E05231,sinus rhythm
+5231,E05232,sinus rhythm
+5233,E05234,left axis deviation
+5234,E05235,left atrial enlargement
+5237,E05238,sinus rhythm
+5241,E05242,left bundle branch block
+5242,E05243,sinus rhythm
+5244,E05245,1st degree av block
+5245,E05246,t wave abnormal
+5246,E05247,left bundle branch block
+5255,E05256,sinus rhythm
+5256,E05257,sinus rhythm
+5257,E05258,left ventricular hypertrophy
+5258,E05259,sinus bradycardia
+5262,E05263,sinus rhythm
+5266,E05267,sinus rhythm
+5268,E05269,sinus bradycardia
+5273,E05274,right bundle branch block
+5274,E05275,right bundle branch block
+5276,E05277,incomplete right bundle branch block
+5279,E05280,t wave abnormal
+5280,E05281,sinus bradycardia
+5284,E05285,sinus arrhythmia
+5285,E05286,sinus rhythm
+5286,E05287,sinus rhythm
+5287,E05288,early repolarization
+5289,E05290,sinus rhythm
+5297,E05298,sinus bradycardia
+5299,E05300,sinus rhythm
+5303,E05304,sinus bradycardia
+5307,E05308,sinus rhythm
+5313,E05314,nonspecific st t abnormality
+5314,E05315,sinus rhythm
+5316,E05317,sinus rhythm
+5322,E05323,sinus rhythm
+5326,E05327,atrial fibrillation
+5328,E05329,sinus rhythm
+5332,E05333,sinus rhythm
+5334,E05335,sinus rhythm
+5335,E05336,sinus tachycardia
+5336,E05337,sinus tachycardia
+5337,E05338,sinus arrhythmia
+5338,E05339,sinus bradycardia
+5343,E05344,sinus rhythm
+5347,E05348,sinus rhythm
+5355,E05356,sinus bradycardia
+5356,E05357,left atrial enlargement
+5357,E05358,sinus rhythm
+5365,E05366,sinus bradycardia
+5366,E05367,sinus rhythm
+5368,E05369,sinus rhythm
+5370,E05371,sinus rhythm
+5378,E05379,sinus rhythm
+5379,E05380,sinus rhythm
+5380,E05381,atrial fibrillation
+5385,E05386,nonspecific st t abnormality
+5386,E05387,prolonged qt interval
+5388,E05389,sinus rhythm
+5392,E05393,sinus rhythm
+5394,E05395,sinus rhythm
+5399,E05400,sinus bradycardia
+5404,E05405,t wave abnormal
+5408,E05409,sinus rhythm
+5411,E05412,sinus rhythm
+5412,E05413,sinus rhythm
+5413,E05414,sinus bradycardia
+5414,E05415,nonspecific st t abnormality
+5415,E05416,sinus rhythm
+5421,E05422,sinus rhythm
+5422,E05423,sinus rhythm
+5424,E05425,early repolarization
+5432,E05433,sinus rhythm
+5437,E05438,left ventricular hypertrophy
+5438,E05439,sinus bradycardia
+5442,E05443,left axis deviation
+5448,E05449,sinus rhythm
+5452,E05453,sinus rhythm
+5461,E05462,left ventricular hypertrophy
+5463,E05464,sinus arrhythmia
+5466,E05467,prolonged qt interval
+5467,E05468,prolonged qt interval
+5469,E05470,sinus rhythm
+5471,E05472,sinus rhythm
+5475,E05476,sinus rhythm
+5477,E05478,sinus bradycardia
+5482,E05483,sinus rhythm
+5483,E05484,ventricular premature beats
+5484,E05485,sinus bradycardia
+5485,E05486,sinus rhythm
+5486,E05487,sinus rhythm
+5487,E05488,sinus rhythm
+5488,E05489,low qrs voltages
+5493,E05494,sinus rhythm
+5497,E05498,sinus bradycardia
+5498,E05499,sinus rhythm
+5499,E05500,sinus bradycardia
+5500,E05501,sinus bradycardia
+5501,E05502,sinus rhythm
+5502,E05503,left ventricular hypertrophy
+5507,E05508,sinus rhythm
+5508,E05509,sinus bradycardia
+5510,E05511,sinus rhythm
+5513,E05514,sinus rhythm
+5526,E05527,sinus rhythm
+5532,E05533,sinus bradycardia
+5533,E05534,sinus rhythm
+5534,E05535,sinus bradycardia
+5535,E05536,sinus rhythm
+5537,E05538,sinus bradycardia
+5538,E05539,left ventricular hypertrophy
+5543,E05544,sinus rhythm
+5544,E05545,t wave abnormal
+5546,E05547,sinus rhythm
+5547,E05548,sinus rhythm
+5549,E05550,sinus rhythm
+5553,E05554,sinus bradycardia
+5556,E05557,sinus rhythm
+5557,E05558,atrial fibrillation
+5561,E05562,sinus rhythm
+5562,E05563,sinus bradycardia
+5564,E05565,sinus rhythm
+5565,E05566,sinus rhythm
+5567,E05568,ventricular pacing pattern
+5569,E05570,sinus rhythm
+5570,E05571,sinus rhythm
+5571,E05572,nonspecific st t abnormality
+5572,E05573,sinus rhythm
+5573,E05574,sinus rhythm
+5576,E05577,right bundle branch block
+5578,E05579,left atrial enlargement
+5581,E05582,left atrial enlargement
+5584,E05585,sinus rhythm
+5585,E05586,nonspecific st t abnormality
+5586,E05587,sinus rhythm
+5588,E05589,left bundle branch block
+5589,E05590,sinus rhythm
+5593,E05594,left ventricular hypertrophy
+5594,E05595,sinus bradycardia
+5595,E05596,sinus bradycardia
+5596,E05597,sinus bradycardia
+5603,E05604,left ventricular hypertrophy
+5604,E05605,sinus rhythm
+5608,E05609,sinus bradycardia
+5624,E05625,left ventricular hypertrophy
+5628,E05629,sinus rhythm
+5637,E05638,sinus rhythm
+5638,E05639,sinus bradycardia
+5639,E05640,sinus rhythm
+5644,E05645,sinus bradycardia
+5647,E05648,sinus rhythm
+5650,E05651,sinus rhythm
+5659,E05660,t wave abnormal
+5660,E05661,sinus rhythm
+5663,E05664,sinus rhythm
+5676,E05677,nonspecific st t abnormality
+5684,E05685,left atrial enlargement
+5685,E05686,sinus rhythm
+5687,E05688,sinus tachycardia
+5694,E05695,atrial fibrillation
+5696,E05697,t wave inversion
+5697,E05698,sinus tachycardia
+5702,E05703,sinus rhythm
+5703,E05704,sinus tachycardia
+5704,E05705,left anterior fascicular block
+5705,E05706,sinus rhythm
+5709,E05710,sinus rhythm
+5711,E05712,sinus rhythm
+5712,E05713,sinus arrhythmia
+5715,E05716,left atrial enlargement
+5720,E05721,sinus tachycardia
+5737,E05738,sinus rhythm
+5738,E05739,sinus rhythm
+5748,E05749,atrial fibrillation
+5769,E05770,nonspecific st t abnormality
+5770,E05771,sinus rhythm
+5777,E05778,sinus rhythm
+5792,E05793,sinus bradycardia
+5795,E05796,nonspecific st t abnormality
+5797,E05798,sinus rhythm
+5798,E05799,sinus rhythm
+5800,E05801,sinus rhythm
+5803,E05804,left ventricular hypertrophy
+5812,E05813,sinus rhythm
+5813,E05814,nonspecific st t abnormality
+5818,E05819,sinus rhythm
+5819,E05820,sinus rhythm
+5826,E05827,sinus tachycardia
+5844,E05845,sinus rhythm
+5845,E05846,sinus rhythm
+5846,E05847,sinus arrhythmia
+5847,E05848,sinus rhythm
+5848,E05849,sinus rhythm
+5860,E05861,sinus rhythm
+5861,E05862,atrial fibrillation
+5865,E05866,sinus rhythm
+5875,E05876,sinus bradycardia
+5876,E05877,sinus rhythm
+5877,E05878,sinus rhythm
+5885,E05886,low qrs voltages
+5886,E05887,sinus rhythm
+5889,E05890,sinus tachycardia
+5893,E05894,incomplete right bundle branch block
+5894,E05895,sinus tachycardia
+5895,E05896,1st degree av block
+5898,E05899,left ventricular hypertrophy
+5900,E05901,left ventricular hypertrophy
+5901,E05902,sinus rhythm
+5906,E05907,sinus rhythm
+5911,E05912,sinus tachycardia
+5915,E05916,sinus rhythm
+5916,E05917,sinus tachycardia
+5924,E05925,right bundle branch block
+5932,E05933,sinus rhythm
+5935,E05936,sinus rhythm
+5937,E05938,sinus bradycardia
+5938,E05939,sinus bradycardia
+5943,E05944,left ventricular hypertrophy
+5944,E05945,sinus bradycardia
+5945,E05946,1st degree av block
+5946,E05947,nonspecific st t abnormality
+5950,E05951,sinus rhythm
+5951,E05952,sinus rhythm
+5952,E05953,sinus rhythm
+5957,E05958,sinus rhythm
+5958,E05959,nonspecific st t abnormality
+5961,E05962,t wave abnormal
+5964,E05965,nonspecific st t abnormality
+5972,E05973,left axis deviation
+5975,E05976,sinus rhythm
+5983,E05984,left ventricular hypertrophy
+5984,E05985,sinus rhythm
+5985,E05986,sinus rhythm
+5986,E05987,nonspecific st t abnormality
+5987,E05988,sinus bradycardia
+5988,E05989,sinus arrhythmia
+5991,E05992,t wave abnormal
+5992,E05993,sinus rhythm
+5993,E05994,sinus arrhythmia
+5996,E05997,incomplete right bundle branch block
+5999,E06000,nonspecific st t abnormality
+6001,E06002,sinus tachycardia
+6003,E06004,sinus bradycardia
+6007,E06008,ventricular pacing pattern
+6010,E06011,sinus rhythm
+6011,E06012,sinus arrhythmia
+6012,E06013,nonspecific st t abnormality
+6013,E06014,nonspecific st t abnormality
+6019,E06020,sinus arrhythmia
+6020,E06021,sinus rhythm
+6029,E06030,sinus rhythm
+6030,E06031,sinus bradycardia
+6033,E06034,left ventricular hypertrophy
+6041,E06042,sinus rhythm
+6042,E06043,sinus rhythm
+6044,E06045,nonspecific st t abnormality
+6047,E06048,sinus bradycardia
+6053,E06054,sinus rhythm
+6057,E06058,sinus rhythm
+6063,E06064,sinus rhythm
+6066,E06067,sinus bradycardia
+6068,E06069,sinus bradycardia
+6072,E06073,sinus rhythm
+6076,E06077,left ventricular hypertrophy
+6087,E06088,left axis deviation
+6090,E06091,t wave inversion
+6093,E06094,left ventricular hypertrophy
+6095,E06096,sinus rhythm
+6096,E06097,left anterior fascicular block
+6099,E06100,sinus rhythm
+6102,E06103,sinus rhythm
+6103,E06104,sinus rhythm
+6105,E06106,sinus arrhythmia
+6108,E06109,sinus bradycardia
+6109,E06110,low qrs voltages
+6110,E06111,sinus bradycardia
+6111,E06112,sinus arrhythmia
+6114,E06115,sinus bradycardia
+6115,E06116,sinus bradycardia
+6116,E06117,left axis deviation
+6118,E06119,sinus rhythm
+6122,E06123,sinus rhythm
+6124,E06125,sinus arrhythmia
+6126,E06127,sinus bradycardia
+6128,E06129,sinus bradycardia
+6131,E06132,sinus rhythm
+6133,E06134,incomplete right bundle branch block
+6142,E06143,nonspecific st t abnormality
+6144,E06145,atrial flutter
+6145,E06146,sinus rhythm
+6151,E06152,sinus rhythm
+6152,E06153,sinus rhythm
+6153,E06154,t wave inversion
+6155,E06156,1st degree av block
+6156,E06157,nonspecific st t abnormality
+6158,E06159,nonspecific st t abnormality
+6162,E06163,sinus bradycardia
+6163,E06164,sinus rhythm
+6164,E06165,sinus rhythm
+6165,E06166,nonspecific st t abnormality
+6166,E06167,sinus tachycardia
+6167,E06168,sinus rhythm
+6168,E06169,sinus rhythm
+6170,E06171,sinus rhythm
+6172,E06173,t wave abnormal
+6177,E06178,left axis deviation
+6185,E06186,sinus rhythm
+6186,E06187,sinus bradycardia
+6187,E06188,sinus rhythm
+6195,E06196,sinus rhythm
+6200,E06201,sinus bradycardia
+6201,E06202,left atrial enlargement
+6202,E06203,nonspecific intraventricular conduction disorder
+6203,E06204,sinus tachycardia
+6210,E06211,sinus rhythm
+6211,E06212,sinus bradycardia
+6212,E06213,sinus rhythm
+6216,E06217,sinus rhythm
+6218,E06219,sinus arrhythmia
+6225,E06226,sinus rhythm
+6226,E06227,sinus rhythm
+6228,E06229,sinus bradycardia
+6229,E06230,1st degree av block
+6234,E06235,sinus rhythm
+6236,E06237,sinus rhythm
+6239,E06240,sinus bradycardia
+6254,E06255,sinus rhythm
+6255,E06256,st elevation
+6266,E06267,sinus rhythm
+6271,E06272,t wave inversion
+6275,E06276,left atrial enlargement
+6277,E06278,left atrial enlargement
+6279,E06280,sinus rhythm
+6282,E06283,left ventricular hypertrophy
+6288,E06289,sinus rhythm
+6291,E06292,lateral ischaemia
+6293,E06294,sinus rhythm
+6297,E06298,sinus rhythm
+6298,E06299,nonspecific st t abnormality
+6299,E06300,sinus rhythm
+6303,E06304,nonspecific st t abnormality
+6305,E06306,sinus rhythm
+6306,E06307,left ventricular hypertrophy
+6311,E06312,sinus rhythm
+6313,E06314,left atrial enlargement
+6323,E06324,atrial fibrillation
+6328,E06329,left ventricular hypertrophy
+6331,E06332,sinus rhythm
+6332,E06333,sinus rhythm
+6333,E06334,sinus rhythm
+6337,E06338,nonspecific st t abnormality
+6343,E06344,sinus tachycardia
+6346,E06347,low qrs voltages
+6356,E06357,left ventricular hypertrophy
+6359,E06360,nonspecific st t abnormality
+6361,E06362,sinus rhythm
+6362,E06363,sinus rhythm
+6363,E06364,sinus rhythm
+6365,E06366,sinus tachycardia
+6366,E06367,sinus arrhythmia
+6369,E06370,left ventricular hypertrophy
+6373,E06374,nonspecific st t abnormality
+6374,E06375,sinus arrhythmia
+6375,E06376,t wave abnormal
+6377,E06378,sinus rhythm
+6378,E06379,left ventricular hypertrophy
+6380,E06381,sinus rhythm
+6385,E06386,sinus rhythm
+6387,E06388,ventricular pacing pattern
+6393,E06394,sinus tachycardia
+6406,E06407,nonspecific st t abnormality
+6407,E06408,nonspecific st t abnormality
+6408,E06409,left axis deviation
+6415,E06416,sinus rhythm
+6416,E06417,sinus bradycardia
+6429,E06430,sinus rhythm
+6433,E06434,sinus rhythm
+6435,E06436,t wave abnormal
+6437,E06438,sinus rhythm
+6438,E06439,left ventricular hypertrophy
+6443,E06444,sinus bradycardia
+6445,E06446,sinus rhythm
+6446,E06447,sinus arrhythmia
+6459,E06460,sinus tachycardia
+6462,E06463,incomplete right bundle branch block
+6470,E06471,left axis deviation
+6473,E06474,t wave abnormal
+6482,E06483,sinus bradycardia
+6484,E06485,sinus rhythm
+6485,E06486,sinus bradycardia
+6488,E06489,left ventricular hypertrophy
+6489,E06490,sinus arrhythmia
+6497,E06498,t wave abnormal
+6501,E06502,sinus bradycardia
+6502,E06503,1st degree av block
+6504,E06505,sinus rhythm
+6506,E06507,1st degree av block
+6509,E06510,ventricular pacing pattern
+6512,E06513,left axis deviation
+6520,E06521,t wave abnormal
+6530,E06531,sinus rhythm
+6539,E06540,sinus rhythm
+6540,E06541,sinus bradycardia
+6546,E06547,sinus rhythm
+6554,E06555,sinus rhythm
+6567,E06568,sinus rhythm
+6568,E06569,nonspecific st t abnormality
+6572,E06573,left ventricular hypertrophy
+6577,E06578,sinus rhythm
+6580,E06581,nonspecific st t abnormality
+6581,E06582,left ventricular hypertrophy
+6598,E06599,sinus arrhythmia
+6606,E06607,nonspecific st t abnormality
+6608,E06609,sinus rhythm
+6609,E06610,sinus rhythm
+6611,E06612,t wave abnormal
+6612,E06613,sinus rhythm
+6614,E06615,left atrial enlargement
+6616,E06617,left ventricular hypertrophy
+6622,E06623,left ventricular hypertrophy
+6623,E06624,left ventricular hypertrophy
+6625,E06626,sinus bradycardia
+6626,E06627,sinus rhythm
+6629,E06630,sinus bradycardia
+6633,E06634,left ventricular hypertrophy
+6634,E06635,1st degree av block
+6643,E06644,t wave abnormal
+6645,E06646,sinus bradycardia
+6646,E06647,sinus rhythm
+6647,E06648,sinus bradycardia
+6651,E06652,sinus arrhythmia
+6653,E06654,sinus bradycardia
+6667,E06668,sinus rhythm
+6668,E06669,sinus rhythm
+6671,E06672,sinus rhythm
+6672,E06673,sinus arrhythmia
+6673,E06674,left axis deviation
+6682,E06683,sinus arrhythmia
+6688,E06689,t wave abnormal
+6689,E06690,sinus rhythm
+6698,E06699,sinus rhythm
+6699,E06700,sinus rhythm
+6700,E06701,right bundle branch block
+6703,E06704,sinus rhythm
+6709,E06710,sinus rhythm
+6717,E06718,sinus tachycardia
+6718,E06719,sinus rhythm
+6723,E06724,incomplete right bundle branch block
+6731,E06732,sinus arrhythmia
+6734,E06735,sinus tachycardia
+6737,E06738,t wave abnormal
+6752,E06753,sinus rhythm
+6769,E06770,sinus bradycardia
+6779,E06780,sinus rhythm
+6780,E06781,sinus rhythm
+6790,E06791,sinus rhythm
+6796,E06797,sinus rhythm
+6800,E06801,incomplete left bundle branch block
+6803,E06804,sinus rhythm
+6807,E06808,sinus rhythm
+6813,E06814,sinus rhythm
+6814,E06815,left axis deviation
+6820,E06821,sinus rhythm
+6825,E06826,sinus rhythm
+6832,E06833,t wave inversion
+6834,E06835,sinus rhythm
+6835,E06836,sinus rhythm
+6836,E06837,sinus rhythm
+6837,E06838,left axis deviation
+6838,E06839,sinus rhythm
+6839,E06840,sinus arrhythmia
+6844,E06845,sinus bradycardia
+6845,E06846,t wave abnormal
+6850,E06851,sinus rhythm
+6851,E06852,sinus rhythm
+6856,E06857,sinus bradycardia
+6858,E06859,sinus rhythm
+6861,E06862,low qrs voltages
+6862,E06863,left ventricular hypertrophy
+6866,E06867,sinus rhythm
+6868,E06869,sinus rhythm
+6869,E06870,right bundle branch block
+6871,E06872,sinus bradycardia
+6872,E06873,sinus rhythm
+6873,E06874,sinus rhythm
+6876,E06877,sinus arrhythmia
+6877,E06878,sinus rhythm
+6879,E06880,atrial hypertrophy
+6881,E06882,sinus arrhythmia
+6896,E06897,sinus rhythm
+6897,E06898,sinus rhythm
+6899,E06900,sinus rhythm
+6900,E06901,t wave abnormal
+6903,E06904,sinus arrhythmia
+6912,E06913,sinus rhythm
+6913,E06914,t wave inversion
+6915,E06916,t wave abnormal
+6923,E06924,sinus rhythm
+6926,E06927,sinus bradycardia
+6938,E06939,atrial fibrillation
+6942,E06943,sinus arrhythmia
+6943,E06944,sinus bradycardia
+6947,E06948,sinus rhythm
+6950,E06951,sinus bradycardia
+6955,E06956,sinus bradycardia
+6957,E06958,sinus arrhythmia
+6958,E06959,sinus rhythm
+6964,E06965,sinus tachycardia
+6965,E06966,sinus rhythm
+6966,E06967,sinus rhythm
+6973,E06974,nonspecific st t abnormality
+6974,E06975,sinus arrhythmia
+6982,E06983,right bundle branch block
+7002,E07003,sinus rhythm
+7009,E07010,sinus rhythm
+7010,E07011,sinus rhythm
+7012,E07013,sinus bradycardia
+7015,E07016,sinus bradycardia
+7019,E07020,sinus rhythm
+7021,E07022,sinus bradycardia
+7023,E07024,sinus rhythm
+7027,E07028,sinus bradycardia
+7028,E07029,sinus arrhythmia
+7030,E07031,ventricular pacing pattern
+7035,E07036,sinus arrhythmia
+7041,E07042,sinus bradycardia
+7047,E07048,low qrs voltages
+7049,E07050,sinus bradycardia
+7050,E07051,sinus rhythm
+7051,E07052,sinus rhythm
+7052,E07053,sinus rhythm
+7053,E07054,sinus rhythm
+7054,E07055,sinus rhythm
+7059,E07060,nonspecific st t abnormality
+7064,E07065,left ventricular hypertrophy
+7065,E07066,left ventricular hypertrophy
+7069,E07070,sinus bradycardia
+7070,E07071,left axis deviation
+7074,E07075,sinus rhythm
+7075,E07076,sinus rhythm
+7079,E07080,prolonged qt interval
+7081,E07082,sinus rhythm
+7084,E07085,nonspecific st t abnormality
+7087,E07088,sinus rhythm
+7090,E07091,sinus rhythm
+7099,E07100,nonspecific st t abnormality
+7102,E07103,early repolarization
+7103,E07104,sinus rhythm
+7104,E07105,left ventricular hypertrophy
+7105,E07106,sinus arrhythmia
+7114,E07115,sinus rhythm
+7122,E07123,sinus bradycardia
+7129,E07130,sinus rhythm
+7131,E07132,sinus rhythm
+7133,E07134,sinus rhythm
+7136,E07137,atrial fibrillation
+7139,E07140,prolonged qt interval
+7142,E07143,nonspecific st t abnormality
+7143,E07144,sinus rhythm
+7144,E07145,incomplete right bundle branch block
+7147,E07148,sinus arrhythmia
+7148,E07149,sinus rhythm
+7150,E07151,sinus tachycardia
+7151,E07152,nonspecific st t abnormality
+7154,E07155,atrial fibrillation
+7157,E07158,prolonged qt interval
+7159,E07160,sinus rhythm
+7163,E07164,sinus bradycardia
+7165,E07166,sinus rhythm
+7166,E07167,sinus rhythm
+7173,E07174,sinus tachycardia
+7175,E07176,sinus rhythm
+7176,E07177,sinus rhythm
+7177,E07178,sinus rhythm
+7179,E07180,nonspecific st t abnormality
+7180,E07181,sinus rhythm
+7182,E07183,left ventricular hypertrophy
+7183,E07184,atrial fibrillation
+7184,E07185,sinus rhythm
+7187,E07188,sinus rhythm
+7189,E07190,sinus rhythm
+7190,E07191,left axis deviation
+7193,E07194,1st degree av block
+7198,E07199,sinus bradycardia
+7201,E07202,sinus bradycardia
+7202,E07203,sinus rhythm
+7206,E07207,sinus rhythm
+7207,E07208,sinus rhythm
+7208,E07209,sinus rhythm
+7209,E07210,sinus rhythm
+7210,E07211,sinus rhythm
+7212,E07213,left ventricular hypertrophy
+7213,E07214,sinus rhythm
+7214,E07215,sinus rhythm
+7218,E07219,sinus rhythm
+7219,E07220,ventricular premature beats
+7220,E07221,sinus tachycardia
+7221,E07222,sinus rhythm
+7224,E07225,nonspecific st t abnormality
+7232,E07233,sinus rhythm
+7239,E07240,sinus bradycardia
+7244,E07245,1st degree av block
+7245,E07246,sinus arrhythmia
+7249,E07250,sinus rhythm
+7250,E07251,nonspecific intraventricular conduction disorder
+7254,E07255,sinus bradycardia
+7260,E07261,nonspecific st t abnormality
+7262,E07263,prolonged qt interval
+7263,E07264,sinus rhythm
+7270,E07271,sinus rhythm
+7271,E07272,t wave abnormal
+7272,E07273,t wave abnormal
+7278,E07279,left axis deviation
+7279,E07280,early repolarization
+7280,E07281,t wave abnormal
+7283,E07284,left ventricular hypertrophy
+7284,E07285,sinus rhythm
+7289,E07290,t wave abnormal
+7292,E07293,sinus rhythm
+7293,E07294,sinus bradycardia
+7296,E07297,sinus bradycardia
+7297,E07298,sinus rhythm
+7298,E07299,sinus bradycardia
+7299,E07300,sinus rhythm
+7301,E07302,left ventricular hypertrophy
+7302,E07303,atrial fibrillation
+7303,E07304,sinus rhythm
+7304,E07305,sinus rhythm
+7308,E07309,sinus rhythm
+7310,E07311,sinus arrhythmia
+7315,E07316,1st degree av block
+7316,E07317,sinus arrhythmia
+7319,E07320,right bundle branch block
+7325,E07326,sinus rhythm
+7328,E07329,nonspecific st t abnormality
+7331,E07332,left axis deviation
+7332,E07333,nonspecific st t abnormality
+7334,E07335,sinus rhythm
+7336,E07337,sinus rhythm
+7345,E07346,sinus rhythm
+7348,E07349,nonspecific st t abnormality
+7349,E07350,left bundle branch block
+7354,E07355,t wave abnormal
+7362,E07363,sinus rhythm
+7363,E07364,early repolarization
+7365,E07366,sinus arrhythmia
+7367,E07368,sinus rhythm
+7368,E07369,left axis deviation
+7370,E07371,sinus bradycardia
+7371,E07372,sinus rhythm
+7372,E07373,sinus rhythm
+7373,E07374,sinus rhythm
+7378,E07379,sinus rhythm
+7379,E07380,sinus rhythm
+7382,E07383,sinus rhythm
+7383,E07384,sinus arrhythmia
+7384,E07385,sinus rhythm
+7385,E07386,lateral ischaemia
+7387,E07388,sinus rhythm
+7388,E07389,sinus rhythm
+7389,E07390,sinus rhythm
+7391,E07392,sinus rhythm
+7393,E07394,atrial fibrillation
+7394,E07395,atrial fibrillation
+7395,E07396,sinus bradycardia
+7396,E07397,sinus rhythm
+7397,E07398,sinus rhythm
+7398,E07399,sinus rhythm
+7402,E07403,st interval abnormal
+7403,E07404,sinus rhythm
+7404,E07405,sinus bradycardia
+7405,E07406,sinus rhythm
+7406,E07407,t wave inversion
+7409,E07410,sinus tachycardia
+7411,E07412,sinus rhythm
+7413,E07414,sinus bradycardia
+7414,E07415,nonspecific st t abnormality
+7415,E07416,sinus rhythm
+7417,E07418,premature atrial contraction
+7419,E07420,1st degree av block
+7421,E07422,nonspecific st t abnormality
+7424,E07425,sinus rhythm
+7425,E07426,sinus tachycardia
+7426,E07427,sinus bradycardia
+7427,E07428,sinus tachycardia
+7428,E07429,sinus rhythm
+7429,E07430,sinus rhythm
+7431,E07432,sinus bradycardia
+7432,E07433,sinus rhythm
+7433,E07434,sinus rhythm
+7434,E07435,sinus rhythm
+7435,E07436,sinus rhythm
+7436,E07437,sinus rhythm
+7437,E07438,sinus rhythm
+7439,E07440,sinus rhythm
+7440,E07441,sinus tachycardia
+7441,E07442,sinus tachycardia
+7442,E07443,sinus bradycardia
+7443,E07444,sinus rhythm
+7444,E07445,left atrial enlargement
+7446,E07447,sinus rhythm
+7447,E07448,left ventricular hypertrophy
+7450,E07451,left axis deviation
+7451,E07452,incomplete right bundle branch block
+7455,E07456,sinus rhythm
+7456,E07457,left atrial abnormality
+7457,E07458,left atrial abnormality
+7459,E07460,sinus rhythm
+7461,E07462,sinus rhythm
+7462,E07463,sinus rhythm
+7463,E07464,sinus rhythm
+7464,E07465,sinus rhythm
+7465,E07466,left atrial abnormality
+7466,E07467,sinus arrhythmia
+7467,E07468,left atrial enlargement
+7468,E07469,left ventricular hypertrophy
+7469,E07470,sinus rhythm
+7471,E07472,sinus rhythm
+7473,E07474,left ventricular hypertrophy
+7474,E07475,left ventricular hypertrophy
+7475,E07476,left axis deviation
+7476,E07477,sinus rhythm
+7478,E07479,sinus rhythm
+7479,E07480,sinus rhythm
+7480,E07481,sinus rhythm
+7482,E07483,sinus tachycardia
+7483,E07484,sinus rhythm
+7486,E07487,sinus bradycardia
+7488,E07489,sinus rhythm
+7491,E07492,premature atrial contraction
+7494,E07495,sinus rhythm
+7495,E07496,sinus rhythm
+7496,E07497,sinus arrhythmia
+7497,E07498,sinus rhythm
+7498,E07499,sinus rhythm
+7501,E07502,sinus tachycardia
+7503,E07504,prolonged qt interval
+7504,E07505,left ventricular hypertrophy
+7505,E07506,sinus rhythm
+7510,E07511,sinus rhythm
+7511,E07512,sinus bradycardia
+7512,E07513,sinus rhythm
+7514,E07515,sinus rhythm
+7515,E07516,t wave abnormal
+7516,E07517,sinus tachycardia
+7517,E07518,sinus rhythm
+7518,E07519,left ventricular hypertrophy
+7519,E07520,sinus rhythm
+7520,E07521,atrial fibrillation
+7524,E07525,left atrial abnormality
+7525,E07526,sinus rhythm
+7526,E07527,sinus bradycardia
+7527,E07528,left anterior fascicular block
+7529,E07530,sinus rhythm
+7530,E07531,nonspecific st t abnormality
+7534,E07535,sinus rhythm
+7535,E07536,left anterior fascicular block
+7536,E07537,sinus rhythm
+7538,E07539,sinus rhythm
+7539,E07540,sinus rhythm
+7540,E07541,av block
+7541,E07542,sinus rhythm
+7542,E07543,sinus tachycardia
+7544,E07545,sinus rhythm
+7545,E07546,incomplete right bundle branch block
+7548,E07549,right bundle branch block
+7549,E07550,sinus rhythm
+7551,E07552,sinus rhythm
+7553,E07554,sinus rhythm
+7555,E07556,sinus rhythm
+7558,E07559,sinus bradycardia
+7559,E07560,sinus arrhythmia
+7562,E07563,left ventricular hypertrophy
+7563,E07564,prolonged qt interval
+7568,E07569,sinus rhythm
+7569,E07570,sinus rhythm
+7570,E07571,sinus tachycardia
+7572,E07573,sinus bradycardia
+7573,E07574,sinus rhythm
+7574,E07575,sinus rhythm
+7575,E07576,sinus rhythm
+7577,E07578,t wave abnormal
+7578,E07579,sinus rhythm
+7579,E07580,sinus rhythm
+7580,E07581,ventricular premature beats
+7581,E07582,sinus rhythm
+7582,E07583,sinus rhythm
+7584,E07585,st depression
+7585,E07586,left anterior fascicular block
+7586,E07587,t wave abnormal
+7587,E07588,left axis deviation
+7588,E07589,t wave abnormal
+7589,E07590,sinus rhythm
+7593,E07594,left axis deviation
+7598,E07599,nonspecific st t abnormality
+7600,E07601,sinus rhythm
+7601,E07602,sinus rhythm
+7602,E07603,incomplete right bundle branch block
+7604,E07605,sinus rhythm
+7605,E07606,sinus rhythm
+7606,E07607,sinus rhythm
+7608,E07609,1st degree av block
+7611,E07612,left atrial abnormality
+7612,E07613,sinus tachycardia
+7613,E07614,sinus rhythm
+7614,E07615,sinus rhythm
+7616,E07617,left ventricular hypertrophy
+7620,E07621,sinus rhythm
+7621,E07622,nonspecific st t abnormality
+7624,E07625,t wave abnormal
+7625,E07626,sinus rhythm
+7626,E07627,sinus bradycardia
+7627,E07628,nonspecific st t abnormality
+7628,E07629,sinus tachycardia
+7630,E07631,sinus rhythm
+7631,E07632,sinus rhythm
+7632,E07633,sinus rhythm
+7633,E07634,sinus rhythm
+7634,E07635,1st degree av block
+7643,E07644,left ventricular hypertrophy
+7644,E07645,sinus rhythm
+7646,E07647,right bundle branch block
+7647,E07648,sinus rhythm
+7648,E07649,sinus rhythm
+7649,E07650,sinus tachycardia
+7651,E07652,right bundle branch block
+7653,E07654,sinus rhythm
+7654,E07655,sinus tachycardia
+7656,E07657,t wave abnormal
+7657,E07658,incomplete right bundle branch block
+7659,E07660,sinus tachycardia
+7661,E07662,sinus tachycardia
+7662,E07663,sinus rhythm
+7663,E07664,sinus rhythm
+7665,E07666,sinus tachycardia
+7666,E07667,sinus tachycardia
+7670,E07671,atrial fibrillation
+7671,E07672,sinus rhythm
+7673,E07674,nonspecific st t abnormality
+7674,E07675,sinus tachycardia
+7675,E07676,t wave abnormal
+7676,E07677,sinus rhythm
+7680,E07681,prolonged qt interval
+7682,E07683,sinus rhythm
+7684,E07685,sinus rhythm
+7685,E07686,sinus rhythm
+7686,E07687,sinus rhythm
+7690,E07691,sinus tachycardia
+7691,E07692,sinus rhythm
+7695,E07696,nonspecific st t abnormality
+7700,E07701,sinus arrhythmia
+7701,E07702,premature atrial contraction
+7702,E07703,sinus rhythm
+7704,E07705,ventricular premature beats
+7705,E07706,sinus rhythm
+7709,E07710,sinus bradycardia
+7711,E07712,sinus rhythm
+7712,E07713,sinus rhythm
+7715,E07716,sinus rhythm
+7717,E07718,sinus rhythm
+7718,E07719,nonspecific st t abnormality
+7719,E07720,sinus bradycardia
+7720,E07721,nonspecific st t abnormality
+7721,E07722,sinus rhythm
+7725,E07726,sinus bradycardia
+7726,E07727,sinus rhythm
+7727,E07728,nonspecific st t abnormality
+7728,E07729,sinus rhythm
+7730,E07731,sinus rhythm
+7731,E07732,sinus tachycardia
+7733,E07734,sinus tachycardia
+7734,E07735,prolonged qt interval
+7735,E07736,sinus bradycardia
+7736,E07737,sinus rhythm
+7739,E07740,left atrial enlargement
+7740,E07741,sinus rhythm
+7741,E07742,sinus rhythm
+7743,E07744,sinus rhythm
+7744,E07745,atrial fibrillation
+7745,E07746,prolonged qt interval
+7747,E07748,left axis deviation
+7748,E07749,left axis deviation
+7749,E07750,sinus rhythm
+7750,E07751,sinus rhythm
+7751,E07752,sinus rhythm
+7752,E07753,sinus tachycardia
+7754,E07755,sinus rhythm
+7757,E07758,sinus rhythm
+7759,E07760,sinus rhythm
+7764,E07765,sinus bradycardia
+7768,E07769,left ventricular hypertrophy
+7769,E07770,st interval abnormal
+7770,E07771,incomplete right bundle branch block
+7771,E07772,sinus tachycardia
+7772,E07773,sinus rhythm
+7773,E07774,sinus rhythm
+7774,E07775,sinus rhythm
+7775,E07776,low qrs voltages
+7776,E07777,sinus rhythm
+7779,E07780,left anterior fascicular block
+7781,E07782,sinus rhythm
+7783,E07784,sinus rhythm
+7784,E07785,sinus bradycardia
+7786,E07787,sinus tachycardia
+7787,E07788,sinus rhythm
+7788,E07789,prolonged qt interval
+7789,E07790,sinus rhythm
+7790,E07791,sinus rhythm
+7792,E07793,right bundle branch block
+7793,E07794,sinus rhythm
+7794,E07795,sinus bradycardia
+7796,E07797,sinus rhythm
+7797,E07798,left atrial abnormality
+7801,E07802,sinus rhythm
+7803,E07804,t wave abnormal
+7805,E07806,sinus tachycardia
+7806,E07807,nonspecific st t abnormality
+7807,E07808,sinus rhythm
+7808,E07809,sinus tachycardia
+7810,E07811,nonspecific intraventricular conduction disorder
+7811,E07812,prolonged qt interval
+7812,E07813,sinus rhythm
+7816,E07817,sinus rhythm
+7821,E07822,sinus rhythm
+7823,E07824,sinus bradycardia
+7824,E07825,sinus rhythm
+7827,E07828,sinus rhythm
+7830,E07831,sinus rhythm
+7833,E07834,sinus rhythm
+7835,E07836,sinus rhythm
+7836,E07837,1st degree av block
+7837,E07838,sinus rhythm
+7838,E07839,sinus rhythm
+7839,E07840,sinus rhythm
+7841,E07842,sinus rhythm
+7844,E07845,sinus rhythm
+7845,E07846,sinus rhythm
+7847,E07848,sinus rhythm
+7848,E07849,sinus rhythm
+7849,E07850,sinus tachycardia
+7850,E07851,sinus bradycardia
+7856,E07857,sinus rhythm
+7858,E07859,sinus rhythm
+7859,E07860,left axis deviation
+7860,E07861,sinus rhythm
+7861,E07862,sinus rhythm
+7862,E07863,sinus rhythm
+7864,E07865,left anterior fascicular block
+7868,E07869,sinus rhythm
+7869,E07870,left ventricular hypertrophy
+7870,E07871,left ventricular hypertrophy
+7871,E07872,sinus rhythm
+7872,E07873,atrial fibrillation
+7874,E07875,sinus rhythm
+7875,E07876,sinus rhythm
+7876,E07877,nonspecific st t abnormality
+7877,E07878,sinus rhythm
+7878,E07879,sinus rhythm
+7879,E07880,nonspecific st t abnormality
+7881,E07882,sinus rhythm
+7883,E07884,nonspecific st t abnormality
+7884,E07885,sinus rhythm
+7885,E07886,sinus rhythm
+7887,E07888,sinus tachycardia
+7889,E07890,sinus rhythm
+7891,E07892,sinus rhythm
+7893,E07894,sinus rhythm
+7895,E07896,atrial fibrillation
+7896,E07897,sinus tachycardia
+7897,E07898,sinus tachycardia
+7898,E07899,sinus rhythm
+7899,E07900,sinus rhythm
+7901,E07902,sinus rhythm
+7903,E07904,sinus rhythm
+7905,E07906,left ventricular hypertrophy
+7906,E07907,sinus rhythm
+7907,E07908,left axis deviation
+7909,E07910,sinus rhythm
+7914,E07915,sinus rhythm
+7915,E07916,prolonged qt interval
+7917,E07918,sinus rhythm
+7918,E07919,sinus rhythm
+7920,E07921,sinus rhythm
+7921,E07922,sinus rhythm
+7922,E07923,sinus rhythm
+7924,E07925,nonspecific st t abnormality
+7925,E07926,sinus rhythm
+7926,E07927,sinus tachycardia
+7928,E07929,sinus rhythm
+7929,E07930,sinus rhythm
+7930,E07931,ventricular premature beats
+7931,E07932,sinus rhythm
+7933,E07934,sinus rhythm
+7940,E07941,t wave inversion
+7946,E07947,sinus rhythm
+7948,E07949,sinus rhythm
+7949,E07950,sinus bradycardia
+7950,E07951,sinus rhythm
+7952,E07953,sinus rhythm
+7953,E07954,sinus rhythm
+7960,E07961,sinus bradycardia
+7961,E07962,low qrs voltages
+7962,E07963,sinus rhythm
+7963,E07964,nonspecific st t abnormality
+7965,E07966,sinus rhythm
+7971,E07972,left axis deviation
+7975,E07976,prolonged qt interval
+7976,E07977,sinus rhythm
+7980,E07981,sinus rhythm
+7981,E07982,atrial fibrillation
+7982,E07983,nonspecific st t abnormality
+7984,E07985,sinus rhythm
+7987,E07988,left anterior fascicular block
+7992,E07993,nonspecific st t abnormality
+7994,E07995,nonspecific st t abnormality
+7996,E07997,1st degree av block
+7997,E07998,sinus bradycardia
+8000,E08001,sinus rhythm
+8002,E08003,sinus rhythm
+8003,E08004,sinus rhythm
+8004,E08005,1st degree av block
+8012,E08013,prolonged qt interval
+8013,E08014,sinus rhythm
+8018,E08019,sinus rhythm
+8020,E08021,sinus rhythm
+8030,E08031,sinus rhythm
+8032,E08033,left atrial enlargement
+8034,E08035,sinus rhythm
+8036,E08037,left ventricular hypertrophy
+8039,E08040,sinus rhythm
+8048,E08049,right bundle branch block
+8049,E08050,sinus rhythm
+8054,E08055,incomplete right bundle branch block
+8055,E08056,t wave abnormal
+8057,E08058,early repolarization
+8060,E08061,sinus rhythm
+8061,E08062,sinus rhythm
+8062,E08063,sinus bradycardia
+8065,E08066,nonspecific st t abnormality
+8067,E08068,sinus rhythm
+8068,E08069,sinus rhythm
+8069,E08070,sinus bradycardia
+8070,E08071,sinus rhythm
+8072,E08073,right bundle branch block
+8073,E08074,sinus rhythm
+8074,E08075,nonspecific st t abnormality
+8075,E08076,sinus bradycardia
+8077,E08078,sinus rhythm
+8079,E08080,sinus rhythm
+8080,E08081,sinus bradycardia
+8082,E08083,left anterior fascicular block
+8085,E08086,sinus rhythm
+8087,E08088,sinus tachycardia
+8090,E08091,left ventricular hypertrophy
+8092,E08093,sinus rhythm
+8096,E08097,early repolarization
+8100,E08101,sinus bradycardia
+8101,E08102,sinus rhythm
+8102,E08103,sinus rhythm
+8103,E08104,sinus bradycardia
+8104,E08105,sinus rhythm
+8105,E08106,sinus tachycardia
+8107,E08108,left atrial enlargement
+8109,E08110,sinus arrhythmia
+8111,E08112,sinus bradycardia
+8112,E08113,left axis deviation
+8114,E08115,sinus rhythm
+8115,E08116,sinus rhythm
+8118,E08119,nonspecific st t abnormality
+8119,E08120,sinus rhythm
+8120,E08121,atrial fibrillation
+8121,E08122,sinus bradycardia
+8122,E08123,left atrial enlargement
+8125,E08126,sinus tachycardia
+8126,E08127,sinus arrhythmia
+8127,E08128,nonspecific st t abnormality
+8128,E08129,nonspecific st t abnormality
+8129,E08130,early repolarization
+8130,E08131,atrial fibrillation
+8131,E08132,sinus rhythm
+8132,E08133,sinus rhythm
+8133,E08134,sinus rhythm
+8136,E08137,sinus rhythm
+8138,E08139,sinus arrhythmia
+8141,E08142,sinus rhythm
+8142,E08143,sinus rhythm
+8143,E08144,sinus rhythm
+8145,E08146,sinus rhythm
+8146,E08147,low qrs voltages
+8150,E08151,sinus rhythm
+8151,E08152,left ventricular hypertrophy
+8154,E08155,left axis deviation
+8155,E08156,nonspecific st t abnormality
+8159,E08160,sinus rhythm
+8160,E08161,sinus bradycardia
+8161,E08162,sinus rhythm
+8162,E08163,sinus bradycardia
+8164,E08165,left ventricular hypertrophy
+8166,E08167,sinus rhythm
+8167,E08168,sinus rhythm
+8169,E08170,low qrs voltages
+8171,E08172,sinus rhythm
+8173,E08174,sinus rhythm
+8174,E08175,sinus rhythm
+8175,E08176,sinus bradycardia
+8176,E08177,sinus rhythm
+8178,E08179,sinus rhythm
+8182,E08183,sinus rhythm
+8183,E08184,sinus rhythm
+8184,E08185,left ventricular hypertrophy
+8185,E08186,sinus rhythm
+8186,E08187,sinus bradycardia
+8187,E08188,sinus bradycardia
+8188,E08189,lateral ischaemia
+8191,E08192,left atrial enlargement
+8192,E08193,sinus bradycardia
+8193,E08194,sinus rhythm
+8195,E08196,ventricular premature beats
+8198,E08199,sinus rhythm
+8200,E08201,sinus bradycardia
+8202,E08203,1st degree av block
+8205,E08206,sinus rhythm
+8207,E08208,sinus arrhythmia
+8210,E08211,sinus rhythm
+8212,E08213,low qrs voltages
+8214,E08215,sinus rhythm
+8215,E08216,sinus rhythm
+8217,E08218,sinus rhythm
+8219,E08220,sinus rhythm
+8220,E08221,sinus bradycardia
+8221,E08222,sinus rhythm
+8222,E08223,left atrial enlargement
+8224,E08225,nonspecific st t abnormality
+8225,E08226,sinus rhythm
+8226,E08227,sinus rhythm
+8227,E08228,sinus rhythm
+8228,E08229,sinus arrhythmia
+8229,E08230,sinus rhythm
+8230,E08231,sinus bradycardia
+8232,E08233,sinus rhythm
+8233,E08234,sinus rhythm
+8234,E08235,sinus rhythm
+8236,E08237,sinus rhythm
+8237,E08238,sinus rhythm
+8239,E08240,sinus rhythm
+8241,E08242,sinus rhythm
+8242,E08243,t wave abnormal
+8243,E08244,t wave abnormal
+8246,E08247,right bundle branch block
+8248,E08249,sinus bradycardia
+8249,E08250,left ventricular hypertrophy
+8251,E08252,sinus rhythm
+8258,E08259,sinus bradycardia
+8259,E08260,left atrial enlargement
+8260,E08261,sinus rhythm
+8261,E08262,sinus rhythm
+8263,E08264,sinus rhythm
+8264,E08265,incomplete right bundle branch block
+8266,E08267,sinus rhythm
+8267,E08268,left atrial enlargement
+8268,E08269,sinus rhythm
+8271,E08272,sinus rhythm
+8273,E08274,sinus bradycardia
+8274,E08275,sinus bradycardia
+8275,E08276,sinus rhythm
+8279,E08280,sinus rhythm
+8282,E08283,sinus bradycardia
+8284,E08285,left axis deviation
+8286,E08287,sinus rhythm
+8287,E08288,sinus rhythm
+8288,E08289,right bundle branch block
+8289,E08290,sinus rhythm
+8291,E08292,sinus tachycardia
+8292,E08293,low qrs voltages
+8294,E08295,early repolarization
+8296,E08297,sinus rhythm
+8297,E08298,sinus rhythm
+8298,E08299,sinus arrhythmia
+8301,E08302,sinus bradycardia
+8302,E08303,sinus rhythm
+8303,E08304,sinus bradycardia
+8304,E08305,atrial fibrillation
+8306,E08307,sinus bradycardia
+8307,E08308,sinus bradycardia
+8308,E08309,nonspecific st t abnormality
+8309,E08310,low qrs voltages
+8311,E08312,right bundle branch block
+8315,E08316,t wave abnormal
+8317,E08318,sinus arrhythmia
+8318,E08319,sinus rhythm
+8319,E08320,sinus rhythm
+8320,E08321,sinus rhythm
+8322,E08323,sinus rhythm
+8324,E08325,sinus rhythm
+8325,E08326,left bundle branch block
+8328,E08329,sinus rhythm
+8329,E08330,nonspecific st t abnormality
+8330,E08331,left atrial enlargement
+8331,E08332,sinus rhythm
+8332,E08333,sinus rhythm
+8335,E08336,sinus bradycardia
+8337,E08338,sinus bradycardia
+8339,E08340,sinus rhythm
+8341,E08342,incomplete right bundle branch block
+8343,E08344,sinus rhythm
+8344,E08345,sinus rhythm
+8346,E08347,sinus bradycardia
+8347,E08348,sinus bradycardia
+8348,E08349,sinus rhythm
+8353,E08354,sinus rhythm
+8356,E08357,sinus rhythm
+8357,E08358,sinus rhythm
+8360,E08361,sinus rhythm
+8363,E08364,low qrs voltages
+8365,E08366,sinus bradycardia
+8368,E08369,sinus rhythm
+8370,E08371,t wave abnormal
+8371,E08372,nonspecific st t abnormality
+8372,E08373,sinus bradycardia
+8375,E08376,sinus rhythm
+8377,E08378,sinus bradycardia
+8379,E08380,nonspecific st t abnormality
+8382,E08383,low qrs voltages
+8383,E08384,sinus rhythm
+8385,E08386,sinus rhythm
+8386,E08387,nonspecific st t abnormality
+8388,E08389,sinus rhythm
+8389,E08390,sinus bradycardia
+8391,E08392,left atrial enlargement
+8395,E08396,sinus bradycardia
+8397,E08398,sinus rhythm
+8398,E08399,sinus rhythm
+8399,E08400,sinus rhythm
+8402,E08403,sinus rhythm
+8404,E08405,sinus arrhythmia
+8407,E08408,sinus rhythm
+8408,E08409,sinus bradycardia
+8409,E08410,sinus rhythm
+8412,E08413,sinus bradycardia
+8414,E08415,sinus rhythm
+8415,E08416,atrial fibrillation
+8417,E08418,nonspecific st t abnormality
+8418,E08419,sinus rhythm
+8419,E08420,early repolarization
+8420,E08421,sinus rhythm
+8421,E08422,sinus bradycardia
+8424,E08425,sinus rhythm
+8425,E08426,sinus rhythm
+8426,E08427,sinus bradycardia
+8429,E08430,sinus rhythm
+8430,E08431,sinus bradycardia
+8431,E08432,sinus rhythm
+8433,E08434,left axis deviation
+8436,E08437,sinus arrhythmia
+8437,E08438,sinus rhythm
+8438,E08439,t wave inversion
+8440,E08441,sinus rhythm
+8441,E08442,sinus rhythm
+8442,E08443,sinus rhythm
+8443,E08444,left atrial enlargement
+8446,E08447,sinus bradycardia
+8447,E08448,sinus bradycardia
+8448,E08449,sinus rhythm
+8449,E08450,sinus bradycardia
+8450,E08451,left atrial enlargement
+8451,E08452,sinus bradycardia
+8452,E08453,sinus rhythm
+8455,E08456,sinus bradycardia
+8456,E08457,sinus rhythm
+8457,E08458,sinus rhythm
+8458,E08459,sinus rhythm
+8461,E08462,sinus rhythm
+8464,E08465,sinus rhythm
+8466,E08467,sinus bradycardia
+8467,E08468,sinus rhythm
+8473,E08474,left atrial enlargement
+8475,E08476,sinus bradycardia
+8477,E08478,sinus bradycardia
+8478,E08479,sinus bradycardia
+8479,E08480,sinus rhythm
+8484,E08485,nonspecific st t abnormality
+8486,E08487,sinus rhythm
+8488,E08489,sinus rhythm
+8490,E08491,sinus rhythm
+8491,E08492,sinus bradycardia
+8494,E08495,sinus rhythm
+8495,E08496,sinus rhythm
+8496,E08497,left axis deviation
+8497,E08498,left axis deviation
+8498,E08499,st elevation
+8499,E08500,atrial fibrillation
+8503,E08504,sinus rhythm
+8509,E08510,nonspecific st t abnormality
+8510,E08511,sinus rhythm
+8511,E08512,nonspecific st t abnormality
+8514,E08515,sinus rhythm
+8515,E08516,sinus rhythm
+8517,E08518,sinus rhythm
+8519,E08520,sinus rhythm
+8520,E08521,nonspecific st t abnormality
+8524,E08525,sinus rhythm
+8526,E08527,sinus rhythm
+8529,E08530,low qrs voltages
+8530,E08531,sinus rhythm
+8534,E08535,sinus bradycardia
+8535,E08536,sinus rhythm
+8536,E08537,nonspecific st t abnormality
+8537,E08538,sinus rhythm
+8538,E08539,sinus rhythm
+8540,E08541,left ventricular hypertrophy
+8545,E08546,sinus rhythm
+8546,E08547,sinus rhythm
+8547,E08548,sinus bradycardia
+8553,E08554,sinus rhythm
+8555,E08556,sinus rhythm
+8556,E08557,incomplete right bundle branch block
+8558,E08559,sinus rhythm
+8560,E08561,left atrial enlargement
+8563,E08564,sinus rhythm
+8564,E08565,right bundle branch block
+8565,E08566,sinus rhythm
+8566,E08567,sinus rhythm
+8567,E08568,sinus rhythm
+8568,E08569,ventricular premature beats
+8569,E08570,left ventricular hypertrophy
+8570,E08571,incomplete right bundle branch block
+8571,E08572,left ventricular hypertrophy
+8573,E08574,left atrial enlargement
+8574,E08575,right bundle branch block
+8579,E08580,sinus rhythm
+8582,E08583,sinus rhythm
+8585,E08586,sinus rhythm
+8586,E08587,sinus rhythm
+8589,E08590,sinus rhythm
+8590,E08591,sinus bradycardia
+8592,E08593,sinus arrhythmia
+8594,E08595,sinus rhythm
+8599,E08600,incomplete right bundle branch block
+8600,E08601,sinus rhythm
+8602,E08603,sinus rhythm
+8603,E08604,sinus bradycardia
+8606,E08607,sinus rhythm
+8607,E08608,sinus bradycardia
+8612,E08613,sinus rhythm
+8614,E08615,left ventricular hypertrophy
+8616,E08617,sinus bradycardia
+8617,E08618,sinus bradycardia
+8618,E08619,sinus rhythm
+8619,E08620,sinus rhythm
+8620,E08621,sinus rhythm
+8621,E08622,1st degree av block
+8623,E08624,sinus bradycardia
+8624,E08625,sinus rhythm
+8625,E08626,sinus arrhythmia
+8626,E08627,sinus bradycardia
+8628,E08629,prolonged qt interval
+8629,E08630,nonspecific st t abnormality
+8631,E08632,sinus bradycardia
+8633,E08634,right bundle branch block
+8635,E08636,sinus rhythm
+8636,E08637,nonspecific st t abnormality
+8641,E08642,1st degree av block
+8642,E08643,left atrial enlargement
+8645,E08646,sinus bradycardia
+8648,E08649,sinus tachycardia
+8649,E08650,sinus rhythm
+8652,E08653,sinus arrhythmia
+8653,E08654,left anterior fascicular block
+8654,E08655,sinus bradycardia
+8658,E08659,nonspecific st t abnormality
+8661,E08662,sinus rhythm
+8663,E08664,left ventricular hypertrophy
+8666,E08667,sinus rhythm
+8667,E08668,sinus rhythm
+8669,E08670,sinus rhythm
+8671,E08672,sinus rhythm
+8673,E08674,sinus rhythm
+8674,E08675,sinus rhythm
+8675,E08676,sinus rhythm
+8679,E08680,sinus rhythm
+8680,E08681,sinus rhythm
+8681,E08682,t wave inversion
+8683,E08684,sinus rhythm
+8684,E08685,sinus rhythm
+8685,E08686,sinus rhythm
+8686,E08687,sinus rhythm
+8690,E08691,sinus rhythm
+8691,E08692,sinus rhythm
+8692,E08693,sinus rhythm
+8694,E08695,sinus rhythm
+8695,E08696,sinus rhythm
+8698,E08699,nonspecific st t abnormality
+8699,E08700,sinus bradycardia
+8700,E08701,left ventricular hypertrophy
+8701,E08702,sinus rhythm
+8703,E08704,sinus bradycardia
+8704,E08705,sinus rhythm
+8705,E08706,sinus rhythm
+8708,E08709,sinus tachycardia
+8709,E08710,sinus rhythm
+8710,E08711,sinus bradycardia
+8711,E08712,1st degree av block
+8714,E08715,sinus rhythm
+8715,E08716,sinus bradycardia
+8716,E08717,sinus rhythm
+8719,E08720,1st degree av block
+8720,E08721,atrial fibrillation
+8721,E08722,sinus rhythm
+8724,E08725,sinus bradycardia
+8725,E08726,sinus rhythm
+8726,E08727,sinus rhythm
+8727,E08728,sinus bradycardia
+8730,E08731,nonspecific st t abnormality
+8731,E08732,t wave inversion
+8733,E08734,sinus rhythm
+8734,E08735,sinus bradycardia
+8735,E08736,sinus arrhythmia
+8737,E08738,sinus rhythm
+8738,E08739,left axis deviation
+8739,E08740,nonspecific st t abnormality
+8740,E08741,sinus arrhythmia
+8741,E08742,left ventricular hypertrophy
+8743,E08744,sinus bradycardia
+8747,E08748,sinus rhythm
+8752,E08753,left ventricular hypertrophy
+8753,E08754,sinus rhythm
+8754,E08755,sinus rhythm
+8756,E08757,sinus rhythm
+8757,E08758,left anterior fascicular block
+8758,E08759,sinus bradycardia
+8760,E08761,sinus rhythm
+8762,E08763,sinus rhythm
+8766,E08767,sinus rhythm
+8767,E08768,sinus rhythm
+8768,E08769,right bundle branch block
+8769,E08770,left atrial enlargement
+8771,E08772,sinus bradycardia
+8772,E08773,sinus rhythm
+8774,E08775,left atrial enlargement
+8775,E08776,incomplete right bundle branch block
+8776,E08777,left ventricular hypertrophy
+8779,E08780,sinus rhythm
+8780,E08781,left axis deviation
+8781,E08782,sinus rhythm
+8785,E08786,atrial fibrillation
+8791,E08792,sinus bradycardia
+8792,E08793,sinus rhythm
+8793,E08794,sinus rhythm
+8794,E08795,right bundle branch block
+8797,E08798,left atrial enlargement
+8800,E08801,sinus arrhythmia
+8805,E08806,sinus bradycardia
+8806,E08807,sinus bradycardia
+8807,E08808,sinus rhythm
+8808,E08809,left atrial enlargement
+8810,E08811,sinus bradycardia
+8811,E08812,sinus rhythm
+8812,E08813,sinus rhythm
+8813,E08814,sinus rhythm
+8815,E08816,sinus bradycardia
+8816,E08817,sinus rhythm
+8819,E08820,sinus rhythm
+8820,E08821,sinus rhythm
+8821,E08822,sinus bradycardia
+8823,E08824,low qrs voltages
+8824,E08825,sinus bradycardia
+8826,E08827,left axis deviation
+8828,E08829,sinus rhythm
+8830,E08831,atrial fibrillation
+8832,E08833,1st degree av block
+8835,E08836,sinus rhythm
+8838,E08839,sinus bradycardia
+8839,E08840,nonspecific st t abnormality
+8840,E08841,sinus rhythm
+8845,E08846,sinus arrhythmia
+8846,E08847,left axis deviation
+8853,E08854,1st degree av block
+8856,E08857,nonspecific st t abnormality
+8857,E08858,sinus bradycardia
+8859,E08860,left ventricular hypertrophy
+8862,E08863,sinus rhythm
+8864,E08865,t wave abnormal
+8867,E08868,nonspecific st t abnormality
+8868,E08869,right bundle branch block
+8869,E08870,sinus arrhythmia
+8873,E08874,sinus rhythm
+8874,E08875,sinus bradycardia
+8875,E08876,sinus rhythm
+8879,E08880,left atrial enlargement
+8880,E08881,sinus rhythm
+8881,E08882,sinus rhythm
+8883,E08884,sinus rhythm
+8885,E08886,sinus bradycardia
+8886,E08887,sinus bradycardia
+8887,E08888,sinus rhythm
+8889,E08890,sinus bradycardia
+8890,E08891,sinus rhythm
+8891,E08892,sinus rhythm
+8892,E08893,sinus rhythm
+8893,E08894,sinus rhythm
+8894,E08895,sinus rhythm
+8896,E08897,left atrial enlargement
+8897,E08898,sinus rhythm
+8898,E08899,sinus rhythm
+8899,E08900,nonspecific st t abnormality
+8900,E08901,sinus bradycardia
+8901,E08902,nonspecific st t abnormality
+8902,E08903,sinus rhythm
+8903,E08904,nonspecific st t abnormality
+8904,E08905,sinus rhythm
+8905,E08906,sinus arrhythmia
+8906,E08907,sinus rhythm
+8908,E08909,left ventricular hypertrophy
+8910,E08911,sinus arrhythmia
+8911,E08912,sinus rhythm
+8914,E08915,sinus rhythm
+8916,E08917,sinus rhythm
+8919,E08920,sinus rhythm
+8920,E08921,left atrial enlargement
+8922,E08923,sinus rhythm
+8924,E08925,sinus bradycardia
+8927,E08928,sinus rhythm
+8929,E08930,1st degree av block
+8930,E08931,nonspecific st t abnormality
+8933,E08934,sinus rhythm
+8938,E08939,sinus rhythm
+8939,E08940,sinus bradycardia
+8941,E08942,sinus bradycardia
+8942,E08943,sinus bradycardia
+8943,E08944,sinus rhythm
+8944,E08945,atrial fibrillation
+8945,E08946,atrial fibrillation
+8946,E08947,sinus bradycardia
+8948,E08949,left ventricular hypertrophy
+8953,E08954,nonspecific st t abnormality
+8954,E08955,sinus bradycardia
+8956,E08957,nonspecific st t abnormality
+8957,E08958,sinus rhythm
+8960,E08961,sinus tachycardia
+8962,E08963,sinus rhythm
+8965,E08966,sinus rhythm
+8966,E08967,nonspecific st t abnormality
+8968,E08969,sinus bradycardia
+8969,E08970,sinus bradycardia
+8971,E08972,right bundle branch block
+8972,E08973,sinus rhythm
+8974,E08975,left anterior fascicular block
+8975,E08976,sinus bradycardia
+8976,E08977,low qrs voltages
+8982,E08983,t wave inversion
+8985,E08986,sinus rhythm
+8986,E08987,sinus rhythm
+8991,E08992,sinus rhythm
+8992,E08993,sinus rhythm
+8993,E08994,sinus rhythm
+8996,E08997,t wave abnormal
+8997,E08998,right bundle branch block
+8998,E08999,nonspecific st t abnormality
+9001,E09002,sinus rhythm
+9002,E09003,sinus rhythm
+9003,E09004,sinus rhythm
+9005,E09006,left atrial enlargement
+9006,E09007,left atrial enlargement
+9008,E09009,sinus rhythm
+9009,E09010,sinus bradycardia
+9013,E09014,sinus bradycardia
+9019,E09020,sinus rhythm
+9020,E09021,low qrs voltages
+9021,E09022,left atrial enlargement
+9023,E09024,nonspecific st t abnormality
+9025,E09026,1st degree av block
+9026,E09027,sinus rhythm
+9027,E09028,t wave abnormal
+9028,E09029,left axis deviation
+9030,E09031,left axis deviation
+9033,E09034,sinus arrhythmia
+9037,E09038,sinus rhythm
+9038,E09039,nonspecific st t abnormality
+9041,E09042,sinus rhythm
+9042,E09043,sinus rhythm
+9044,E09045,sinus bradycardia
+9045,E09046,left bundle branch block
+9048,E09049,nonspecific st t abnormality
+9049,E09050,early repolarization
+9050,E09051,sinus bradycardia
+9059,E09060,left ventricular hypertrophy
+9060,E09061,sinus bradycardia
+9064,E09065,sinus rhythm
+9067,E09068,sinus bradycardia
+9068,E09069,sinus rhythm
+9069,E09070,1st degree av block
+9070,E09071,sinus rhythm
+9071,E09072,sinus bradycardia
+9072,E09073,sinus bradycardia
+9073,E09074,sinus arrhythmia
+9077,E09078,atrial fibrillation
+9080,E09081,sinus rhythm
+9083,E09084,t wave abnormal
+9084,E09085,nonspecific st t abnormality
+9085,E09086,sinus bradycardia
+9091,E09092,sinus rhythm
+9092,E09093,low qrs voltages
+9093,E09094,sinus rhythm
+9097,E09098,sinus bradycardia
+9098,E09099,atrial fibrillation
+9100,E09101,sinus rhythm
+9101,E09102,left atrial enlargement
+9102,E09103,sinus bradycardia
+9103,E09104,sinus arrhythmia
+9105,E09106,sinus rhythm
+9108,E09109,left atrial enlargement
+9110,E09111,sinus rhythm
+9115,E09116,sinus rhythm
+9116,E09117,sinus rhythm
+9118,E09119,left atrial enlargement
+9122,E09123,sinus rhythm
+9128,E09129,t wave abnormal
+9130,E09131,left axis deviation
+9134,E09135,sinus rhythm
+9135,E09136,sinus rhythm
+9138,E09139,incomplete right bundle branch block
+9140,E09141,sinus rhythm
+9144,E09145,sinus rhythm
+9145,E09146,sinus bradycardia
+9149,E09150,t wave abnormal
+9151,E09152,sinus rhythm
+9152,E09153,sinus bradycardia
+9153,E09154,sinus bradycardia
+9158,E09159,t wave abnormal
+9161,E09162,sinus rhythm
+9162,E09163,nonspecific st t abnormality
+9163,E09164,left ventricular hypertrophy
+9165,E09166,sinus rhythm
+9166,E09167,sinus bradycardia
+9167,E09168,sinus arrhythmia
+9168,E09169,sinus bradycardia
+9169,E09170,sinus rhythm
+9171,E09172,sinus rhythm
+9173,E09174,sinus rhythm
+9174,E09175,sinus rhythm
+9176,E09177,sinus bradycardia
+9178,E09179,atrial fibrillation
+9179,E09180,sinus rhythm
+9182,E09183,t wave abnormal
+9187,E09188,sinus rhythm
+9188,E09189,sinus rhythm
+9189,E09190,left ventricular hypertrophy
+9191,E09192,sinus rhythm
+9192,E09193,left ventricular hypertrophy
+9194,E09195,early repolarization
+9195,E09196,sinus rhythm
+9196,E09197,left axis deviation
+9197,E09198,sinus bradycardia
+9202,E09203,low qrs voltages
+9204,E09205,sinus rhythm
+9209,E09210,left atrial enlargement
+9211,E09212,sinus rhythm
+9212,E09213,sinus tachycardia
+9215,E09216,sinus bradycardia
+9216,E09217,t wave abnormal
+9219,E09220,sinus tachycardia
+9229,E09230,left ventricular hypertrophy
+9236,E09237,t wave abnormal
+9237,E09238,left ventricular hypertrophy
+9240,E09241,sinus bradycardia
+9244,E09245,prolonged qt interval
+9255,E09256,sinus rhythm
+9256,E09257,sinus rhythm
+9260,E09261,sinus rhythm
+9261,E09262,sinus rhythm
+9263,E09264,atrial fibrillation
+9268,E09269,sinus bradycardia
+9276,E09277,sinus rhythm
+9278,E09279,sinus rhythm
+9280,E09281,sinus rhythm
+9286,E09287,left atrial enlargement
+9290,E09291,t wave inversion
+9292,E09293,left ventricular hypertrophy
+9296,E09297,ventricular ectopics
+9300,E09301,t wave abnormal
+9307,E09308,ventricular ectopics
+9313,E09314,sinus rhythm
+9315,E09316,sinus rhythm
+9316,E09317,left atrial enlargement
+9328,E09329,sinus tachycardia
+9330,E09331,sinus tachycardia
+9335,E09336,nonspecific st t abnormality
+9339,E09340,sinus bradycardia
+9344,E09345,sinus bradycardia
+9347,E09348,st elevation
+9349,E09350,sinus tachycardia
+9353,E09354,sinus rhythm
+9358,E09359,sinus tachycardia
+9359,E09360,sinus rhythm
+9361,E09362,sinus tachycardia
+9362,E09363,t wave inversion
+9368,E09369,ventricular ectopics
+9372,E09373,left ventricular hypertrophy
+9382,E09383,sinus bradycardia
+9390,E09391,nonspecific st t abnormality
+9392,E09393,t wave abnormal
+9396,E09397,sinus bradycardia
+9402,E09403,nonspecific st t abnormality
+9405,E09406,left atrial enlargement
+9406,E09407,sinus bradycardia
+9407,E09408,left ventricular hypertrophy
+9418,E09419,sinus bradycardia
+9425,E09426,sinus arrhythmia
+9431,E09432,t wave abnormal
+9433,E09434,left bundle branch block
+9438,E09439,sinus bradycardia
+9441,E09442,left ventricular hypertrophy
+9453,E09454,right bundle branch block
+9454,E09455,t wave abnormal
+9462,E09463,t wave abnormal
+9474,E09475,left axis deviation
+9481,E09482,1st degree av block
+9488,E09489,sinus bradycardia
+9493,E09494,t wave inversion
+9495,E09496,1st degree av block
+9497,E09498,left ventricular hypertrophy
+9499,E09500,sinus rhythm
+9503,E09504,sinus arrhythmia
+9504,E09505,sinus bradycardia
+9505,E09506,sinus bradycardia
+9510,E09511,nonspecific st t abnormality
+9511,E09512,sinus rhythm
+9514,E09515,prolonged qt interval
+9518,E09519,low qrs voltages
+9523,E09524,left atrial enlargement
+9524,E09525,r wave abnormal
+9525,E09526,nonspecific intraventricular conduction disorder
+9527,E09528,prolonged qt interval
+9535,E09536,left ventricular hypertrophy
+9536,E09537,t wave abnormal
+9541,E09542,left ventricular hypertrophy
+9542,E09543,left ventricular hypertrophy
+9546,E09547,sinus arrhythmia
+9549,E09550,left ventricular hypertrophy
+9550,E09551,sinus rhythm
+9551,E09552,sinus bradycardia
+9553,E09554,r wave abnormal
+9554,E09555,left ventricular hypertrophy
+9558,E09559,t wave abnormal
+9569,E09570,left atrial enlargement
+9574,E09575,prolonged qt interval
+9575,E09576,atrial flutter
+9580,E09581,nonspecific st t abnormality
+9582,E09583,sinus rhythm
+9585,E09586,r wave abnormal
+9593,E09594,sinus arrhythmia
+9594,E09595,sinus bradycardia
+9595,E09596,prolonged qt interval
+9596,E09597,t wave abnormal
+9598,E09599,sinus tachycardia
+9600,E09601,sinus bradycardia
+9601,E09602,sinus rhythm
+9609,E09610,low qrs voltages
+9610,E09611,t wave abnormal
+9611,E09612,sinus arrhythmia
+9612,E09613,left ventricular hypertrophy
+9613,E09614,t wave abnormal
+9614,E09615,t wave abnormal
+9617,E09618,sinus tachycardia
+9620,E09621,left axis deviation
+9623,E09624,sinus arrhythmia
+9625,E09626,st interval abnormal
+9629,E09630,sinus bradycardia
+9633,E09634,sinus rhythm
+9636,E09637,sinus rhythm
+9643,E09644,qwave abnormal
+9647,E09648,t wave inversion
+9651,E09652,incomplete right bundle branch block
+9653,E09654,sinus bradycardia
+9655,E09656,t wave abnormal
+9658,E09659,sinus bradycardia
+9661,E09662,sinus bradycardia
+9662,E09663,sinus rhythm
+9663,E09664,sinus bradycardia
+9665,E09666,sinus rhythm
+9667,E09668,right bundle branch block
+9672,E09673,sinus bradycardia
+9683,E09684,sinus tachycardia
+9685,E09686,left ventricular hypertrophy
+9686,E09687,left bundle branch block
+9695,E09696,sinus arrhythmia
+9704,E09705,left ventricular hypertrophy
+9715,E09716,left ventricular hypertrophy
+9720,E09721,left axis deviation
+9725,E09726,t wave abnormal
+9741,E09742,sinus tachycardia
+9761,E09762,left atrial enlargement
+9765,E09766,t wave inversion
+9767,E09768,t wave abnormal
+9769,E09770,t wave abnormal
+9774,E09775,prolonged qt interval
+9783,E09784,sinus arrhythmia
+9788,E09789,t wave inversion
+9803,E09804,sinus tachycardia
+9807,E09808,sinus tachycardia
+9810,E09811,lateral ischaemia
+9811,E09812,t wave abnormal
+9814,E09815,t wave abnormal
+9820,E09821,incomplete right bundle branch block
+9823,E09824,incomplete right bundle branch block
+9824,E09825,atrial fibrillation
+9828,E09829,st depression
+9832,E09833,ventricular pacing pattern
+9834,E09835,left anterior fascicular block
+9837,E09838,atrial flutter
+9854,E09855,right axis deviation
+9855,E09856,t wave inversion
+9861,E09862,left ventricular hypertrophy
+9869,E09870,st interval abnormal
+9872,E09873,ventricular ectopics
+9875,E09876,nonspecific st t abnormality
+9877,E09878,nonspecific st t abnormality
+9878,E09879,sinus rhythm
+9881,E09882,sinus tachycardia
+9884,E09885,sinus rhythm
+9890,E09891,sinus rhythm
+9891,E09892,sinus rhythm
+9893,E09894,sinus tachycardia
+9897,E09898,sinus rhythm
+9898,E09899,sinus arrhythmia
+9899,E09900,sinus rhythm
+9903,E09904,sinus rhythm
+9904,E09905,atrial fibrillation
+9906,E09907,sinus rhythm
+9907,E09908,sinus rhythm
+9910,E09911,sinus rhythm
+9911,E09912,sinus rhythm
+9914,E09915,sinus bradycardia
+9915,E09916,sinus bradycardia
+9917,E09918,sinus rhythm
+9920,E09921,low qrs voltages
+9921,E09922,sinus bradycardia
+9922,E09923,sinus rhythm
+9923,E09924,sinus rhythm
+9926,E09927,sinus rhythm
+9927,E09928,sinus bradycardia
+9928,E09929,sinus arrhythmia
+9930,E09931,sinus rhythm
+9934,E09935,nonspecific st t abnormality
+9936,E09937,sinus rhythm
+9938,E09939,sinus rhythm
+9940,E09941,sinus rhythm
+9941,E09942,sinus bradycardia
+9944,E09945,t wave abnormal
+9945,E09946,nonspecific st t abnormality
+9946,E09947,sinus rhythm
+9949,E09950,sinus arrhythmia
+9950,E09951,sinus rhythm
+9952,E09953,sinus rhythm
+9954,E09955,sinus rhythm
+9956,E09957,sinus rhythm
+9958,E09959,left atrial enlargement
+9960,E09961,sinus rhythm
+9961,E09962,sinus bradycardia
+9963,E09964,sinus bradycardia
+9964,E09965,sinus rhythm
+9965,E09966,nonspecific st t abnormality
+9966,E09967,sinus rhythm
+9968,E09969,sinus rhythm
+9969,E09970,sinus rhythm
+9971,E09972,sinus rhythm
+9974,E09975,sinus rhythm
+9975,E09976,sinus rhythm
+9976,E09977,sinus bradycardia
+9977,E09978,early repolarization
+9978,E09979,sinus rhythm
+9979,E09980,sinus rhythm
+9982,E09983,sinus rhythm
+9983,E09984,sinus rhythm
+9985,E09986,atrial fibrillation
+9987,E09988,sinus rhythm
+9990,E09991,sinus rhythm
+9991,E09992,sinus rhythm
+9994,E09995,sinus rhythm
+9997,E09998,early repolarization
+9998,E09999,early repolarization
+9999,E10000,sinus rhythm
+10000,E10001,sinus rhythm
+10001,E10002,sinus rhythm
+10004,E10005,sinus rhythm
+10005,E10006,sinus rhythm
+10007,E10008,sinus rhythm
+10008,E10009,sinus rhythm
+10009,E10010,sinus rhythm
+10015,E10016,left ventricular hypertrophy
+10016,E10017,sinus rhythm
+10019,E10020,sinus rhythm
+10021,E10022,sinus arrhythmia
+10022,E10023,sinus rhythm
+10023,E10024,sinus bradycardia
+10025,E10026,sinus rhythm
+10026,E10027,sinus rhythm
+10041,E10042,sinus rhythm
+10042,E10043,sinus rhythm
+10044,E10045,sinus arrhythmia
+10045,E10046,left ventricular hypertrophy
+10046,E10047,sinus rhythm
+10047,E10048,sinus rhythm
+10048,E10049,sinus rhythm
+10049,E10050,sinus rhythm
+10050,E10051,sinus rhythm
+10052,E10053,sinus rhythm
+10053,E10054,left ventricular hypertrophy
+10054,E10055,sinus rhythm
+10057,E10058,sinus rhythm
+10059,E10060,sinus tachycardia
+10060,E10061,sinus rhythm
+10062,E10063,nonspecific st t abnormality
+10063,E10064,sinus rhythm
+10064,E10065,sinus rhythm
+10065,E10066,sinus rhythm
+10068,E10069,sinus rhythm
+10069,E10070,left axis deviation
+10072,E10073,sinus rhythm
+10077,E10078,prolonged qt interval
+10080,E10081,sinus bradycardia
+10087,E10088,sinus tachycardia
+10089,E10090,sinus rhythm
+10090,E10091,nonspecific st t abnormality
+10094,E10095,nonspecific st t abnormality
+10097,E10098,sinus rhythm
+10099,E10100,low qrs voltages
+10100,E10101,sinus rhythm
+10107,E10108,left ventricular hypertrophy
+10117,E10118,sinus arrhythmia
+10121,E10122,sinus tachycardia
+10124,E10125,left atrial enlargement
+10127,E10128,nonspecific st t abnormality
+10128,E10129,sinus tachycardia
+10129,E10130,sinus tachycardia
+10131,E10132,sinus tachycardia
+10132,E10133,sinus rhythm
+10133,E10134,sinus rhythm
+10134,E10135,right bundle branch block
+10137,E10138,left atrial enlargement
+10141,E10142,sinus rhythm
+10142,E10143,low qrs voltages
+10143,E10144,sinus rhythm
+10146,E10147,t wave abnormal
+10147,E10148,sinus rhythm
+10149,E10150,left axis deviation
+10151,E10152,prolonged qt interval
+10152,E10153,sinus tachycardia
+10154,E10155,sinus arrhythmia
+10155,E10156,sinus rhythm
+10157,E10158,sinus rhythm
+10159,E10160,sinus rhythm
+10161,E10162,sinus rhythm
+10162,E10163,sinus rhythm
+10163,E10164,low qrs voltages
+10164,E10165,sinus arrhythmia
+10167,E10168,sinus tachycardia
+10168,E10169,sinus tachycardia
+10169,E10170,sinus rhythm
+10170,E10171,sinus rhythm
+10176,E10177,t wave abnormal
+10177,E10178,sinus rhythm
+10178,E10179,sinus rhythm
+10179,E10180,sinus rhythm
+10184,E10185,nonspecific st t abnormality
+10185,E10186,sinus rhythm
+10186,E10187,atrial fibrillation
+10190,E10191,left ventricular hypertrophy
+10191,E10192,nonspecific st t abnormality
+10194,E10195,sinus rhythm
+10195,E10196,sinus rhythm
+10198,E10199,atrial fibrillation
+10202,E10203,prolonged qt interval
+10203,E10204,sinus tachycardia
+10205,E10206,nonspecific st t abnormality
+10206,E10207,1st degree av block
+10207,E10208,sinus rhythm
+10208,E10209,sinus rhythm
+10209,E10210,prolonged qt interval
+10210,E10211,sinus rhythm
+10211,E10212,prolonged qt interval
+10212,E10213,sinus arrhythmia
+10214,E10215,sinus rhythm
+10215,E10216,sinus bradycardia
+10216,E10217,sinus rhythm
+10218,E10219,t wave abnormal
+10220,E10221,prolonged qt interval
+10226,E10227,atrial fibrillation
+10228,E10229,sinus rhythm
+10229,E10230,1st degree av block
+10232,E10233,atrial fibrillation
+10236,E10237,low qrs voltages
+10238,E10239,left ventricular hypertrophy
+10242,E10243,sinus rhythm
+10244,E10245,sinus bradycardia
+10245,E10246,sinus rhythm
+10246,E10247,sinus rhythm
+10247,E10248,sinus bradycardia
+10248,E10249,sinus bradycardia
+10252,E10253,sinus rhythm
+10253,E10254,sinus rhythm
+10254,E10255,sinus rhythm
+10259,E10260,sinus rhythm
+10260,E10261,sinus rhythm
+10261,E10262,early repolarization
+10262,E10263,right axis deviation
+10263,E10264,sinus rhythm
+10264,E10265,sinus rhythm
+10267,E10268,sinus rhythm
+10271,E10272,sinus rhythm
+10272,E10273,left ventricular hypertrophy
+10273,E10274,sinus rhythm
+10275,E10276,lateral ischaemia
+10281,E10282,sinus tachycardia
+10282,E10283,sinus rhythm
+10289,E10290,nonspecific st t abnormality
+10290,E10291,nonspecific st t abnormality
+10295,E10296,prolonged qt interval
+10302,E10303,t wave abnormal
+10304,E10305,left ventricular hypertrophy
+10315,E10316,left ventricular hypertrophy
+10317,E10318,sinus bradycardia
+10325,E10326,left ventricular hypertrophy
+10330,E10331,sinus rhythm
+10331,E10332,sinus rhythm
+10332,E10333,sinus rhythm
+10334,E10335,t wave abnormal
+10336,E10337,sinus rhythm
+10338,E10339,atrial pacing pattern
+10339,E10340,sinus bradycardia
+10343,E10344,sinus rhythm
