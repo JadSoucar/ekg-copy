@@ -88,7 +88,7 @@
             <a href="{{ url_for('home', index=next_index) }}"><button>Next</button></a>
             <a href="{{ url_for('home', index=previous_index) }}"><button>Previous</button></a>
         </div>
-        <img src="{{ url_for('static', filename=image_path) }}" alt="EKG Image" width="1000">
+        <img src="data:image/png;base64,{{ img_data }}" alt="ECG Plot", width=1000>
         <div class="button-container">
             <button onclick="revealDescription()">Answer</button>
             <p id="description" class="description">{{ description }}</p>

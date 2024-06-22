@@ -2,6 +2,7 @@ import os
 import re
 import gc
 import io
+import base64
 import numpy as np
 import pandas as pd
 import scipy.io
@@ -28,8 +29,11 @@ def gen_im(name):
         ax[ix].set_yticks([])
         ax[ix].grid(True)
 
-    plt.savefig(f'static/{name}.png')
-    return f'{name}.png'
+    img = io.BytesIO()
+    fig.savefig(img, format='png')
+    img.seek(0)
+    encoded_img_data = base64.b64encode(img.getvalue()).decode('utf-8')
+    return encoded_img_data
 
 
 @app.route('/')
@@ -45,11 +49,11 @@ def home(index=0):
 
     # Get name and description
     name, description = data.iloc[index]['name'], data.iloc[index]['Dx']
-    img_path = gen_im(name)
     
-    # Pass the index to the template
-    return render_template('main.html', image_path=img_path, index=index, description=description, next_index=next_index, previous_index=previous_index)
-
+    # Generate and encode the image
+    img_data = gen_im(name)
+    
+    return render_template('main.html', img_data=img_data, description=description, next_index=next_index, previous_index=previous_index)
 
 
 if __name__ == '__main__':
